@@ -1,0 +1,275 @@
+# Canonical Screenplay - THE UNWRITTEN
+
+Master story, ~10 minutes. Source: `v3-adapted` (latest). No narrator.
+
+---
+
+## ACT I - THE WORLD THAT NOTICES THEM (0:00-1:30)
+
+### Scene 1 - An ordinary evening
+An almost empty school classroom. Evening light falls through the windows. Chairs are slightly misaligned; the last students have left.
+
+Lucien and Elara are still there.
+
+We establish their relationship through small, believable details. She takes his pen without asking. He moves her bag before it falls. They exchange a look that suggests familiarity rather than a dramatic, newly discovered attraction.
+
+They don't need to announce that they're in love. We should feel it.
+
+Then something strange happens.
+
+A pencil rolls across a desk - but stops at the edge, pointing toward an empty patch of floor.
+
+The shadows beneath the desks begin stretching in the wrong direction.
+
+Elara notices first. Lucien follows her gaze.
+
+### Scene 2 - The impossible crack
+The darkness beneath a desk becomes deeper than the space should allow.
+
+A thin golden fissure appears within it.
+
+The crack spreads across the floor, but it doesn't break the tiles. It seems to split the space above them, revealing darkness behind reality itself.
+
+The classroom lights flicker.
+
+Elara reaches for Lucien's hand. He takes it.
+
+The fissures race toward the centre of the room, joining into a single shape.
+
+For one instant, everything stops.
+
+Then the floor disappears.
+
+### Scene 3 - The fall
+They fall together.
+
+Not into an ordinary tunnel, but through fragments of impossible worlds: a forest growing upside down, a distant ocean suspended in the sky, enormous stone arches floating through darkness.
+
+Their hands slip apart. Lucien catches Elara's wrist. She grabs his hand again. They continue falling.
+
+Neither knows where they're going. Neither lets go.
+
+*Emotional purpose:* their first major choice is already established. In a world that has become incomprehensible, they reach for each other.
+
+---
+
+## ACT II - THE ACADEMY BEYOND REALITY (1:30-3:30)
+
+### Scene 4 - The first sight
+They land on a vast black-stone causeway. For several seconds, neither speaks.
+
+Lucien gets up first and helps Elara stand. She checks that he's okay before looking around.
+
+Then the camera rises.
+
+An immense academy hangs above an endless sea of clouds. Towers disappear into the mist. Bridges connect structures that shouldn't be able to remain suspended. A staircase slowly rearranges itself in the distance.
+
+Golden lights travel through the architecture like veins beneath dark stone.
+
+For the first time, the film's music opens into something enormous.
+
+Elara takes a step forward. Lucien watches her expression, then looks back at the academy.
+
+It is beautiful. But something about it feels wrong.
+
+### Scene 5 - The school that shouldn't exist
+They enter through monumental doors.
+
+Inside, the academy is alive with impossible activity. A student writes a mathematical equation in the air, and the objects around them rotate as gravity changes. A glass sphere contains a miniature galaxy. Somewhere in a distant hall, an illustrated creature moves inside a book.
+
+But the important part isn't simply showing magical things. The couple begins noticing details that don't fit:
+- A doorway changes position when they look away.
+- A painting depicts a ruined tower that they can see through a distant window.
+- A student briefly notices their joined hands and becomes visibly uneasy.
+
+Nobody explains anything.
+
+Eventually, they reach a corridor where every portrait has been covered with dark cloth. At its far end is a door bearing an unfamiliar symbol.
+
+The same symbol appeared in the golden fissures during their fall.
+
+Elara recognises it. Lucien realises she has stopped walking. They approach the door.
+
+*Purpose:* the academy has a history, rules and secrets that the protagonists have accidentally entered.
+
+---
+
+## ACT III - THE THING THAT WAS NEVER FINISHED (3:30-5:30)
+
+### Scene 6 - The unfinished creature
+Behind a partly open door, they discover a forgotten classroom. Its tables are covered with old parchment. Sketches of strange creatures cover the walls. Most are crossed out or burned.
+
+One drawing is different. It depicts a creature with an elongated body, feathered wings, and a featureless face. The drawing ends abruptly at the creature's chest, as if its creator stopped halfway through.
+
+Elara approaches it. One ink line moves. She freezes.
+
+The creature's head slowly rises from the page. Its eye opens. Its unfinished wing emerges, casting a shadow across the desk.
+
+It is alive. But it shouldn't be.
+
+Lucien pulls Elara back as the creature slips off the parchment and lands on the floor.
+
+It doesn't attack them. Instead, it stares at their joined hands.
+
+A thin golden line appears across its body. The creature turns toward the sealed corridor. Then it begins walking. They follow.
+
+### Scene 7 - The academy's missing history
+The creature leads them into an abandoned section of the academy. The polished stone becomes cracked. The golden lights grow dimmer.
+
+They discover murals showing the academy at different points in its history.
+
+- One mural depicts a beautiful, radiant being surrounded by people.
+- Another depicts the same being breaking apart into golden fissures.
+- In the final mural, the academy's towers surround a dark sphere. The being is gone. The sphere remains.
+
+Someone has deliberately destroyed the mural's final section.
+
+Lucien examines the damaged stone. Elara notices a detail the destruction failed to erase: two figures standing before the sphere, their hands joined. Their faces are missing. Beneath them is a symbol matching the one on the sealed door.
+
+Before they can investigate further, the creature suddenly recoils. The golden line on its body spreads. For a moment, something moves beneath its skin - something larger than the creature itself. Then the line disappears.
+
+The creature collapses into ink. The ink flows across the floor toward the sealed door.
+
+Silence.
+
+Lucien and Elara understand that whatever they've discovered is connected to something dangerous.
+
+---
+
+## ACT IV - THE CHAMBER THAT REMEMBERS (5:30-7:30)
+
+### Scene 8 - The forbidden room
+The sealed door opens.
+
+Inside is a circular chamber surrounded by enormous black-stone pillars. Metal rings rotate around a black-glass sphere suspended above the floor.
+
+Unlike the rest of the academy, the chamber has no visible source of light.
+
+The sphere reflects nothing. Not the pillars. Not the ceiling. Not even Lucien and Elara.
+
+As they enter, the metal rings begin slowing down. One by one, they stop. The entire academy seems to fall silent.
+
+Then the sphere changes.
+
+### Scene 9 - The memory
+Golden fissures spread across its surface. At first, they form a chaotic network. Then the lines begin rearranging themselves.
+
+The pattern becomes recognisable: two hands, interlaced. Exactly like Lucien and Elara's hands.
+
+They look down at their fingers. Then back at the sphere.
+
+Elara slowly tries to separate her hand from Lucien's. The golden pattern begins breaking apart. She stops. She looks at him.
+
+He doesn't tell her to hold on. He doesn't promise that everything will be fine. He simply turns his hand slightly and lets her choose.
+
+She intertwines her fingers with his again. The fissures reconnect.
+
+This time, something else happens. The sphere produces an image - not a reflection of their bodies, but two silhouettes standing together beneath a sky filled with unfamiliar stars.
+
+The silhouettes are Lucien and Elara. They are older in one image, younger in another. Their clothes change. The architecture around them changes. One image dissolves into the next. But in every image, they find each other.
+
+The sphere is showing them something that resembles a memory of lives they have never lived.
+
+Neither can explain it. Neither can look away.
+
+### Scene 10 - The realisation
+Elara approaches the sphere.
+
+For a moment, she sees another version of herself standing on the other side of the glass. That version reaches toward a figure beside her. Lucien.
+
+The image fractures.
+
+A faint golden line appears across Elara's palm. The same line appears on Lucien's.
+
+They look at their hands. Then at each other.
+
+Their expressions change - not because a magical object has told them whom to love, but because they are confronting something neither of them can explain.
+
+They have chosen each other in this life. Yet the sphere seems to suggest that their connection reaches beyond this single moment, perhaps beyond this single lifetime.
+
+But they don't yet know whether the sphere is showing them a truth, a possibility, or a trap.
+
+That uncertainty matters. If the film simply announces that they're destined to be together, their love becomes a prophecy they must obey. If it reveals that something has recognised a bond they already chose, their love remains theirs.
+
+---
+
+## ACT V - THE ETERNAL MARK (7:30-9:00)
+
+### Scene 11 - The choice
+The sphere begins to crack. Not physically - the golden lines are spreading across the darkness behind its surface.
+
+The images disappear.
+
+For the first time, the couple sees something behind the sphere: an enormous shape, barely distinguishable from the surrounding void.
+
+The academy was not merely hiding the sphere. It was containing something.
+
+A deep vibration passes through the chamber. The metal rings begin rotating in the opposite direction.
+
+The golden mark on Lucien's palm brightens. Elara's mark answers it.
+
+The sphere shows them one final image. Two figures stand on opposite sides of a great golden fracture. Between them is the same darkness they saw beneath the classroom desk. One figure reaches for the other. The image ends before their hands meet.
+
+The chamber begins collapsing. Lucien pulls Elara toward the exit, but the door seals itself. A golden fissure races between them across the floor.
+
+The sphere's light intensifies. For an instant, the two marks pull in opposite directions - as if something is trying to separate them.
+
+Elara looks at Lucien. They have no proof that staying together will save them. They have no idea whether the sphere is showing them a warning or attempting to manipulate them.
+
+But they understand one thing: whatever this place wants from them, they will face it together.
+
+Lucien extends his hand. Elara takes it.
+
+Not because the sphere commands them. Because she chooses him. Because he chooses her.
+
+The marks align. A single golden line connects their palms. The chamber stops shaking. The darkness behind the sphere withdraws.
+
+But it does not disappear. It has noticed them.
+
+### Scene 12 - The mark of an eternal bond
+The sphere becomes still. Its surface clears for the first time, revealing two small points of golden light suspended in the darkness. They orbit one another. They never collide. They never drift apart.
+
+As the lights move, the golden marks on Lucien and Elara's palms form a complete symbol when their hands are joined.
+
+The symbol is not a chain. It is not a lock. It resembles two interwoven lines that continue into one another without a visible beginning or end.
+
+Elara traces the mark with her thumb. She looks at Lucien, and he understands what she is asking without her speaking. He turns his palm toward hers. The marks meet.
+
+For a brief moment, their reflections appear on the sphere - not as they are now, but as two figures standing together beneath a night sky filled with stars. The vision fades.
+
+They remain where they are, holding hands.
+
+They have not been given a complete explanation. They do not know what the mark will demand from them, whether their bond truly transcends lifetimes, or why the academy has been waiting for them. But they now have reason to believe that their connection is part of something much older than either of them.
+
+*That is the emotional centre of the film.* The mark is evidence of the mystery. Their decision to remain together is evidence of their love. Those are related, but they are not the same thing.
+
+---
+
+## ACT VI - THE THING THAT WOKE UP (9:00-10:00)
+
+### Scene 13 - The academy changes
+The couple leaves the chamber. The corridor looks different. Golden light is travelling through the walls, following the same pattern as the marks on their palms.
+
+Far above them, the academy's enormous dome stops rotating. Every clock in the building stops at the same instant. Students emerge from classrooms. Teachers look toward the restricted wing.
+
+Lucien and Elara reach a balcony overlooking the clouds. The academy stretches before them, beautiful and immense.
+
+Then every window in the distant tower turns black. One by one.
+
+A low sound rises from somewhere beneath the structure. The clouds below the academy begin rotating around an enormous empty space.
+
+For a fraction of a second, the couple sees something moving in that darkness. The shape from behind the sphere. The thing the academy has been containing.
+
+It has not escaped. Not yet.
+
+But the golden mark on their palms pulses once. Far beneath them, something answers.
+
+Elara looks at Lucien. He looks at their joined hands. Neither speaks.
+
+The camera pulls back, revealing the academy suspended above the darkness.
+
+Cut to black.
+
+# THE UNWRITTEN
+
+*Final implication:* their arrival did not simply reveal the academy to them. It changed the balance of something the academy has been trying to keep hidden. And the connection between them may be the only thing capable of changing what happens next.

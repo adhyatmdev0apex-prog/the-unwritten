@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Secrets (API keys for Veo/ElevenLabs/etc.)
+.env
+*.key
+secrets/
+
+# Heavy renders and raw media - keep out of git, store on Drive instead
+films/**/*.mp4
+films/**/*.mov
+assets/audio/**/*.wav
+assets/**/raw/
+*.tmp
+*.log
+
+# Keep folder placeholders
+!.gitkeep
