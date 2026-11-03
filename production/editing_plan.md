@@ -21,8 +21,8 @@
    - Place the 27 approved clips in order (`S01-SH01` through `S05-SH06`) using [`plans/short/SHOT_LIST_1m50.md`](../plans/short/SHOT_LIST_1m50.md).
    - Verify Scene timings: Scene 1 (`20s`), Scene 2 (`20s`), Scene 3 (`20s`), Scene 4 (`25s`), Scene 5 (`25s`) = **110 seconds**.
 2. **Build the Independent 58-Second Competition Cut:**
-   - Duplicate the project timeline and re-edit to the 21-cut structure in [`plans/short/COMPETITION_CUT_58s.md`](../plans/short/COMPETITION_CUT_58s.md).
-   - Do **not** simply truncate the 1:50 film at 0:58—preserve the full narrative arc (classroom → fall & academy → ink creature → sphere & marks → deliberate hand-take, golden eye, and title).
+   - Assemble the 6 generated clips from [`prompts/short/COMPETITION_6_CLIPS_10S.md`](../prompts/short/COMPETITION_6_CLIPS_10S.md) according to the 20-cut specification in [`plans/short/COMPETITION_CUT_58s.md`](../plans/short/COMPETITION_CUT_58s.md).
+   - Opens directly on the Black Bridge (0% ordinary school/falling intro) and dedicates ~83% of runtime to experiencing the living fantasy academy (Grand Hall, Mathematics gravity, Science galaxies, Art living worlds, Dimensional Library) before the mystery chamber awakening climax.
 3. **Title Card (`S05-SH06`):**
    - Build the final 3–4 second title card (`THE UNWRITTEN` emerging from a thin golden fissure on black) directly in DaVinci Resolve so typography is razor-sharp and free of AI text artifacts.
 

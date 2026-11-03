@@ -28,9 +28,11 @@
 
 ## 58-Second Competition Cut Subset
 
-For the 58-second competition cut ([`COMPETITION_CUT_58s.md`](COMPETITION_CUT_58s.md)), use lines:
-- **Line 1 & 2** (The Classroom tease)
-- **Line 4 & 5** (The Academy Reveal)
-- **Line 8 & 9** (The Marks reveal)
-- **Line 10** (The Silhouettes mystery)
-- **Line 11** (The Deliberate Hand-Taking climax)
+For the 58-second competition cut ([`COMPETITION_CUT_58s.md`](COMPETITION_CUT_58s.md)), the ordinary-school opening is removed and the film opens directly on the Black Bridge, focusing ~83% on the living fantasy academy. The locked dialogue lines are:
+
+| # | Timecode | Speaker | Line | Context & Scene |
+|---|---|---|---|---|
+| **C1** | 0:04.5–0:06.0 | **ELARA** | *"This is our school?"* | Scene 1: Looking up at the colossal spires from the black bridge |
+| **C2** | 0:06.5–0:08.0 | **LUCIEN** | *"Not quite."* | Scene 1: Looking ahead at the parting 40-foot bronze doors |
+| **C3** | 0:51.0–0:52.0 | **ELARA** | *"Why us?"* | Scene 7: As matching golden marks blaze onto their palms |
+| **C4** | 0:52.0–0:53.5 | **LUCIEN** | *"Together."* | Scene 7: Deliberately taking Elara's hand before the awakening |

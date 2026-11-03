@@ -17,6 +17,21 @@ Lucien and Elara feel an inexplicable connection, but they are **not** establish
 | **Act 3: The Chamber (`S03-SH01` – `S03-SH04`)** | **Hands apart (open palms)** | Hands remain separate even when golden fissures form interlaced fingers and matching marks appear on their open palms (`S03-SH02`). |
 | **Act 4: The Climax (`S04-SH01` – `S04-SH04`)** | **Hesitation → Deliberate Choice** | Elara reaches out and **hesitates** (`S04-SH01`). Lucien deliberately **takes her hand** (*"Whatever that thing is… we face it together."*). Marks connect into one continuous loop, and hands stay joined through the eye reveal (`S04-SH04`). |
 
+### 58-Second Competition Cut Hand-Holding Continuity
+
+In the 58-second cut, the intro/falling sequences are removed; the film opens directly on the Black Bridge. Hands remain apart until the chamber climax:
+
+| Scene Beat (58s Cut) | Hand State | Rule |
+|---|---|---|
+| **Scene 1: Black Bridge (0–8s)** | **Hands apart** | Walking side by side across the basalt causeway. Hands hang naturally at their sides. |
+| **Scene 2: Grand Academy Hall (8–14s)** | **Hands apart** | Exploring the grand moving staircases. Zero hand contact. |
+| **Scene 3: Mathematics (14–24s)** | **Hands apart** | Standing together watching floating desks and rotating geometric polyhedron. |
+| **Scene 4: Science (24–34s)** | **Hands apart** | Observing the miniature galaxy and starlight ignition shoulder to shoulder. |
+| **Scene 5: Art Atelier (34–42s)** | **Hands apart** | Watching living waterfall and flying painted birds. |
+| **Scene 6: Impossible Library (42–48s)** | **Hands apart** | Approaching the self-opening book with golden fracture mark. |
+| **Scene 7: Chamber Marks (48–52s)** | **Hands apart (open palms)** | Marks ignite on open palms (*"Why us?"*). Zero physical contact until 0:52. |
+| **Scene 7–8: Climax Awakening (52–58s)** | **Deliberate Hand-Taking** | Lucien deliberately takes Elara's hand (*"Together."*). Palms seal the circuit; golden shockwave surges; eye opens. |
+
 ---
 
 ## 2. Character & Costume Visual Lock
