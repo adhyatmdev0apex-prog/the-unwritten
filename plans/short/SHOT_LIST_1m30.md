@@ -1,286 +1,300 @@
-# Shot List - THE UNWRITTEN (1:30, 27 shots)
+# Canonical Production Shot List — THE UNWRITTEN (90-Second Master)
 
-Source of truth for dialogue: [DIALOGUE.md](DIALOGUE.md). No narrator. Direction B. 9:16 vertical.
-Each clip is generated individually (2-6 s, no whole scenes). Reference images of Lucien/Elara are **not generated yet**; every prompt assumes they will be attached.
-
-## Shared prompt blocks (paste into every prompt)
-
-**[STYLE]** photorealistic cinematic fantasy film, 35mm look, vertical 9:16, controlled camera, realistic materials, natural skin texture, natural fabric folds, physically plausible shadows. Palette: slate-teal and cold-blue shadows, restrained 2700K golden magic, black stone, aged bronze.
-
-**[LUCIEN]** Lucien, 16, tall, dark hair, charcoal long school coat with dark-teal lining and bronze fasteners, old leather notebook. Match the reference image exactly.
-**[ELARA]** Elara, 16, charcoal long school coat, dark-teal scarf lining, a pencil behind her ear. Match the reference image exactly.
-
-**[MARK]** the golden mark: one thin gold line across the palm, the same design in every shot, quietly glowing, not dramatic.
-
-**[NEG]** cartoon, illustration, plastic skin, excess bloom, random glowing symbols, camera shake, inconsistent faces, extra fingers, distorted hands, costume changes, text, watermark, borders.
+**Format:** 9:16 Vertical (1080 × 1920) | **Runtime:** 1:30 (90.0s exact)
+**Structure:** 40% Fantasy School Exploration (36s) / 60% Dramatic Arc (54s)
+**Relationship Direction:** **B — Drawn together without understanding why**
+**Narration:** None | **Dialogue Source:** [`plans/short/DIALOGUE.md`](DIALOGUE.md)
 
 ---
 
-# SCENE 1 - THE FIRST FRACTURE (0:00-0:18)
+## Master Reference Requirements
 
-### S01-SH01 - The classroom | 3 s | 0:00-0:03
-- **Action:** Fade in from black on a warm late-afternoon classroom: desks, tall windows, students finishing work, dust in the light, the teacher's desk empty.
-- **Camera:** Starts at the **back of the classroom, high, angled down**; sweeps down to a straight-on view while zooming out very slightly. Smooth, no effects.
-- **Characters:** Lucien and Elara seated mid-room at one desk, calm, backs/three-quarters, half in the crowd.
-- **Dialogue:** none
-- **Audio:** faint ambience: chairs, paper, quiet talk.
-- **Prompt:** `[STYLE] Fade in from black. A warm late-afternoon school classroom, tall windows, golden sunlight and drifting dust across wooden desks, a dozen students finishing work. Camera begins high at the back of the class angled down and sweeps smoothly down to a straight-on view while zooming out very slightly. [LUCIEN] and [ELARA] sit together at a desk in mid-room. Calm, realistic, no supernatural effect. [NEG]`
-- **Continuity:** fix the room layout, desk position (their desk is **mid-room, window side**), light direction. Same desk used in S01-SH04/05.
-
-### S01-SH02 - The bell | 5 s | 0:03-0:08
-- **Action:** The bell rings. Students stand, pack bags, chairs scrape; they leave the room. Camera holds. Lucien and Elara stay seated. Nobody notices anything unusual.
-- **Camera:** Locked straight-on wide, no move.
-- **Characters:** Lucien and Elara seated, slightly still; the rest leave (about 5 s).
-- **Dialogue:** none
-- **Audio:** school bell, chair scrapes, bags, footsteps receding, muffled voices.
-- **Prompt:** `[STYLE] Locked wide shot of the same classroom. A school bell rings; students quickly pack their bags, chairs scrape, and they file out of the door over about five seconds. [LUCIEN] and [ELARA] stay seated at their desk while the room empties. Realistic, warm, no supernatural effect. [NEG]`
-- **Continuity:** same framing as SH01 end. Count the student exit so the room is empty at the last frame.
-
-### S01-SH03 - Just the two of them | 5 s | 0:08-0:13
-- **Action:** Room nearly empty. Lucien closes his notebook; Elara notices he hasn't been working and teases him. He admits he was trying. She sees his unfinished page and smiles.
-- **Camera:** Medium two-shot from slightly front-left, a very slow push-in.
-- **Characters:** Both in profile/three-quarter, comfortable, curious, a faint spark between them (B: not a couple, not yet).
-- **Dialogue:** ELARA "You're not even going to pretend you were studying?" - LUCIEN "I was trying to." - ELARA "Clearly."
-- **Audio:** room tone, softer, dialogue, a faint fluorescent hum begins.
-- **Prompt:** `[STYLE] Medium two-shot in a nearly empty classroom. [LUCIEN] closes his notebook; [ELARA] looks at his unfinished page, amused, and smiles. Warm, intimate, understated chemistry between two friends who don't yet understand how drawn to each other they are. Very slow push-in. [NEG]`
-- **Continuity:** Elara's pencil still behind her ear; notebook leather, hands not joined.
-
-### S01-SH04 - The first sign | 3 s | 0:13-0:16
-- **Action:** A faint metallic hum. A pencil rolls normally across the desk, then **stops at the edge without falling**. A thin golden crack appears in the shadow under the desk.
-- **Camera:** Macro on the pencil, then tilt down to the crack.
-- **Characters:** Hands only/edge of frame; Lucien's smile fades.
-- **Dialogue:** none
-- **Audio:** hum rises, pencil roll stops abruptly, a crystalline crack tone.
-- **Prompt:** `[STYLE] Extreme macro of a hexagonal wooden pencil rolling across a desk and stopping dead at the edge without falling or glowing. Camera tilts down to the shadow under the desk where a hair-thin molten gold crack appears, like kintsugi, casting a faint amber rim-light on the desk legs. [NEG]`
-- **Continuity:** the pencil is the same one used at the end of the film. Gold only appears here first.
-
-### S01-SH05 - Stay close | 2 s | 0:16-0:18
-- **Action:** The crack spreads across the floor and the shadow. Lucien instinctively moves nearer to Elara. Cut to black for a fraction of a second.
-- **Camera:** Medium two-shot, quick push; hard cut to black.
-- **Characters:** Elara worried, Lucien protective, shoulders almost touching.
-- **Dialogue:** ELARA "Lucien...?" - LUCIEN "Stay close."
-- **Audio:** low rumble, then a deep unnatural impact on the cut.
-- **Prompt:** `[STYLE] Medium two-shot. [ELARA] looks at [LUCIEN] worried; he steps closer to her protectively. Behind them a golden crack spreads across the floor in the dusk light. Hard cut to black at the last frame. [NEG]`
-- **Continuity:** Lucien moves toward Elara, not the reverse; they do **not** hold hands yet.
+Every prompt references approved keyframe references created in Stage 1 & Stage 2:
+- **`[REF:LUCIEN]`**: Approved master reference turnaround sheet in `characters/lucien/`
+- **`[REF:ELARA]`**: Approved master reference turnaround sheet in `characters/elara/`
+- **`[REF:CLASSROOM]`**: Ordinary school classroom reference in `assets/references/`
+- **`[REF:ACADEMY]`**: Exterior Gothic academy and cloud sea reference in `assets/references/`
+- **`[REF:ENCHANTED_CLASSROOM]`**: Fantasy classroom with floating desks/constellations in `assets/references/`
+- **`[REF:LIBRARY]`**: Library between worlds with orbiting books in `assets/references/`
+- **`[REF:CORRIDOR]`**: Covered-portrait corridor with sealed iron door in `assets/references/`
+- **`[REF:CHAMBER]`**: Circular chamber with black-glass sphere and bronze rings in `assets/references/`
+- **`[REF:HAND_MARK]`**: Interwoven golden kintsugi palm-mark design in `assets/references/`
 
 ---
 
-# SCENE 2 - THE WORLD BEYOND (0:18-0:32)
+# ACT 1 — THE LAST BELL (0:00–0:12 | 12.0 Seconds)
 
-### S02-SH01 - The floor fractures | 2 s | 0:18-0:20
-- **Action:** The classroom floor breaks into impossible geometry, revealing vast darkness beneath reality.
-- **Camera:** High looking down into the opening.
-- **Characters:** Small silhouettes at the edge.
-- **Dialogue:** none
-- **Audio:** impact, stone-on-bronze grind.
-- **Prompt:** `[STYLE] High angle looking down at the classroom floor fracturing into impossible angular geometry with molten gold seams, revealing a vast dark void beneath reality. Two small silhouettes near the edge. [NEG]`
-- **Continuity:** same gold fissure look as SH04.
+### `S01-SH01` — The Classroom Opening
+- **Duration:** 5.0s (0:00–0:05)
+- **Visual Action:** Fade in from black on a realistic school classroom in warm late-afternoon sunlight. Dust drifts through light shafts from tall windows. Students are finishing work at wooden desks.
+- **Camera:** Begins high at the back of the classroom, angled down; sweeps smoothly down into a straight-on perspective with a subtle zoom out.
+- **Characters:** Lucien and Elara sit together at their established desk in mid-room. No hand-holding; no supernatural activity.
+- **Dialogue:** None.
+- **Audio:** `A1` — Quiet afternoon classroom ambience, rustling paper, soft chair shifts.
+- **Approved References:** `[REF:CLASSROOM]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical film still, warm late-afternoon school classroom, sunbeams through tall windows illuminating dust motes, realistic wooden desks, teenage students finishing work, Lucien and Elara seated together mid-room in charcoal coats, realistic 35mm lens, natural textures, photorealistic --ar 9:16`
+- **Motion Prompt:** `Slow, smooth camera sweep from an elevated high angle at the back of the classroom down to a straight-on eye-level view, with a very slight zoom out. Students make subtle natural writing movements. Lucien and Elara remain seated calmly. Grounded physics, no camera shake.`
+- **Continuity Notes:** Establishes desk layout, window direction, and Lucien & Elara's positions.
 
-### S02-SH02 - The fall | 3 s | 0:20-0:23
-- **Action:** They fall past fragments of impossible worlds: an upside-down forest, an ocean hanging in the sky, giant stone arches.
-- **Camera:** Tracking alongside the fall, wide.
-- **Characters:** Lucien and Elara falling side by side, a body-length apart.
-- **Dialogue:** none
-- **Audio:** rushing wind, distorted echoes, falling debris.
-- **Prompt:** `[STYLE] [LUCIEN] and [ELARA] fall side by side through a surreal sky. Around them: an upside-down forest, an ocean suspended in the air, enormous stone arches floating in darkness. Camera tracks beside them. [NEG]`
-- **Continuity:** same clothing; teal scarf lining visible as it whips.
+### `S01-SH02` — The Bell Rings
+- **Duration:** 4.0s (0:05–0:09)
+- **Visual Action:** The school bell rings. Students pack their bags, push back chairs, stand, and file out of the classroom door. Lucien and Elara remain seated at their desk, unmoving.
+- **Camera:** Locked eye-level wide shot.
+- **Characters:** Lucien and Elara remain at their desk as the room empties around them. Hands apart on the desk.
+- **Dialogue:** None.
+- **Audio:** `A1` — School bell rings, chairs scraping linoleum, zipper/bag movement, footsteps receding down the hall.
+- **Approved References:** `[REF:CLASSROOM]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, school classroom at dusk, students standing and packing backpacks, motion blur of departing teenagers, Lucien and Elara remaining seated still at their wooden desk in the center, photorealistic --ar 9:16`
+- **Motion Prompt:** `Locked camera shot. Students stand up, sling bags over shoulders, and walk out through the open classroom door. Lucien and Elara stay seated at their desk, watching. Room empties naturally.`
+- **Continuity Notes:** By the end of this shot, the background desks are empty.
 
-### S02-SH03 - Hands slip, hands catch | 2 s | 0:23-0:25
-- **Action:** Their hands slip apart; Lucien catches Elara's wrist; she grabs his hand again.
-- **Camera:** Close on hands and wrists, shallow depth.
-- **Characters:** Fear, urgency; first physical contact of the film beyond the classroom.
-- **Dialogue:** none
-- **Audio:** wind, a breath, fabric.
-- **Prompt:** `[STYLE] Close-up of two hands slipping apart in free fall, then [LUCIEN] catching [ELARA]'s wrist and her gripping his hand. Dark fragments of stone and light blur behind. Correct five fingers. [NEG]`
-- **Continuity:** right/left hands consistent with the later mark shots.
-
-### S02-SH04 - Landing | 2 s | 0:25-0:27
-- **Action:** They land on a black-stone causeway above clouds. They release hands, breathing hard.
-- **Camera:** Low then settles behind them.
-- **Characters:** Standing apart a little, disoriented, checking each other.
-- **Dialogue:** none
-- **Audio:** hard landing, wet stone echo, wind.
-- **Prompt:** `[STYLE] [LUCIEN] and [ELARA] land hard on a vast wet black-stone causeway above a sea of teal clouds, release each other's hands, and stand apart, breathing, checking each other. Camera low, settling behind their shoulders. [NEG]`
-- **Continuity:** hands **released** here. Do not show them joined in S03.
-
-### S02-SH05 - The academy rises | 5 s | 0:27-0:32
-- **Action:** Camera rises. An enormous Gothic academy hangs above an endless sea of clouds: floating bridges, impossible towers, a vast dome turning slowly against a teal-black sky; golden light runs through the stone like veins. The central doors open by themselves.
-- **Camera:** Crane rise behind them to an extreme wide, then a gentle push toward the doors.
-- **Characters:** Small in the foreground, nearly motionless.
-- **Dialogue:** ELARA "Where are we?" - LUCIEN "I wish I knew."
-- **Audio:** wind; the **first music** enters (solo cello into choir/horns); a deep door groan.
-- **Prompt:** `[STYLE] Crane rise behind [LUCIEN] and [ELARA] on a black-stone causeway, revealing a colossal Gothic academy suspended above an endless sea of teal clouds: floating bridges, impossible towers, a huge dome rotating slowly, gold light travelling through the dark stone like veins, a moving staircase in the distance. The great central doors open by themselves. Epic scale, vertical composition. [NEG]`
-- **Continuity:** this is the master academy design: black stone, bronze, teal glass, gold veins, one big dome. Reuse the same references in SH-S05.
+### `S01-SH03` — A Strange Connection & The Crack
+- **Duration:** 3.0s (0:09–0:12)
+- **Visual Action:** Lucien closes his leather notebook. Elara smiles at his unfinished work. Suddenly, a hexagonal pencil stops dead at the desk edge without falling. A thin molten-gold crack opens in the floor shadow beneath their desk.
+- **Camera:** Medium two-shot pushing quickly toward the desk, tilting down to the floor crack.
+- **Characters:** Elara teases, Lucien smiles slightly, then both freeze as the golden light appears.
+- **Dialogue (`A2`/`A3`):**
+  - **ELARA:** *"You're not even going to pretend you were studying?"*
+  - **LUCIEN:** *"I was trying to."*
+  - **ELARA:** *"Lucien…?"*
+- **Audio:** `A2`/`A3` dialogue + `A4` rolling pencil dead-stop, crystalline crack tone, rising sub-bass.
+- **Approved References:** `[REF:CLASSROOM]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical medium shot of Lucien and Elara at a wooden desk in an empty dusk classroom. On the desk, a wooden pencil stops at the edge; beneath the desk, a hairline crack of molten gold glowing brightly inside black shadow. Subtle amber rim light on their faces, photorealistic --ar 9:16`
+- **Motion Prompt:** `Medium two-shot pushing slowly in. Lucien closes his leather notebook; Elara smiles. Camera tilts down as a thin molten-gold kintsugi crack splits the floor shadow beneath the desk and spreads across the floor.`
+- **Continuity Notes:** First supernatural event. Hands remain apart.
 
 ---
 
-# SCENE 3 - THE FORBIDDEN CLASSROOM (0:32-0:48)
+# ACT 2 — THEIR SCHOOL, BEYOND REALITY (0:12–0:48 | 36.0 Seconds) — *[40% EXPLORATION CORE]*
 
-### S03-SH01 - The abandoned classroom | 3 s | 0:32-0:35
-- **Action:** They enter a dusty classroom filled with enormous sketches and strange symbols; most are crossed out or burned.
-- **Camera:** Slow tracking behind them, wide.
-- **Characters:** Cautious, a step apart.
-- **Dialogue:** none
-- **Audio:** hollow footsteps, distant metallic hum, paper stirring.
-- **Prompt:** `[STYLE] [LUCIEN] and [ELARA] cautiously enter a vast abandoned classroom, walls covered in huge parchment sketches of strange creatures and symbols, many burned or crossed out, dust in teal light. Slow tracking shot behind them. [NEG]`
-- **Continuity:** the **seal symbol** is first shown here; it must match S01 crack geometry and the door in SH05.
+### `S02-SH01` — The Impossible Fall
+- **Duration:** 3.0s (0:12–0:15)
+- **Visual Action:** The classroom floor opens completely into a vast impossible sky. Lucien and Elara fall together past fragments of different worlds: an upside-down forest, stone arches floating in darkness, and an ocean suspended above the clouds.
+- **Camera:** Wide dynamic vertical tracking shot descending beside the falling characters.
+- **Characters:** Clothing and hair whip in the rushing air; faces show shock and disorientation.
+- **Dialogue:** None.
+- **Audio:** `A4` — Floor fracturing impact, rushing high-altitude wind, distorted spatial echoes.
+- **Approved References:** `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, Lucien and Elara falling in free fall through an impossible surreal dimension, passing an upside-down green pine forest floating above, stone Gothic arches drifting in the void, and an ocean of water suspended in the sky, dramatic depth, photorealistic --ar 9:16`
+- **Motion Prompt:** `Camera tracks downward alongside Lucien and Elara as they fall through impossible surreal fragments of floating worlds. Clothes and coats flutter naturally in high wind. Smooth vertical motion.`
+- **Continuity Notes:** Coats and costumes remain intact.
 
-### S03-SH02 - The drawing moves | 2 s | 0:35-0:37
-- **Action:** An unfinished humanoid drawing; one ink line moves.
-- **Camera:** Macro on the page.
-- **Characters:** none (their reflection at the edge).
-- **Dialogue:** none
-- **Audio:** paper scrape, ink drip.
-- **Prompt:** `[STYLE] Macro on an old parchment sketch of an unfinished humanoid creature with a featureless face, drawn only to the chest; one black ink line twitches and begins to move. [NEG]`
-- **Continuity:** creature unfinished: ends at the chest, featureless face.
+### `S02-SH02` — Reaching and Landing
+- **Duration:** 3.0s (0:15–0:18)
+- **Visual Action:** In free fall, Lucien and Elara reach for each other; Lucien catches Elara's wrist, and she grips his hand. They land with physical weight onto a black-stone platform above the clouds, immediately steadying themselves and releasing hands.
+- **Camera:** Tight macro on hands connecting in free fall, cutting immediately to a low wide landing on the basalt platform.
+- **Characters:** Survival grip during fall, released upon landing.
+- **Dialogue:** None.
+- **Audio:** `A4` — Wind cuts, solid wet stone impact, deep reverberant silence.
+- **Approved References:** `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, Lucien and Elara landing on a wet black basalt stone causeway suspended above a boundless ocean of clouds, Lucien steadying Elara as they stand up, releasing hands, looking forward in disbelief, atmospheric perspective --ar 9:16`
+- **Motion Prompt:** `Quick cut from hands grasping in free fall to the two characters landing solidly on a black-stone platform above clouds. They stand up, steady each other, let go of their hands, and look forward.`
+- **Continuity Notes:** Hands are completely separated after landing.
 
-### S03-SH03 - It emerges | 4 s | 0:37-0:41
-- **Action:** The creature lifts from the page and steps out, ink dripping, in three dimensions.
-- **Camera:** Medium; slow pull back.
-- **Characters:** Elara stunned, Lucien half-steps in front of her.
-- **Dialogue:** ELARA "Tell me that's not real." - LUCIEN "I was hoping you'd say that."
-- **Audio:** wet ink, a leathery creak, a low tone.
-- **Prompt:** `[STYLE] A tall ink-black humanoid creature with a featureless face and unfinished body emerges from a parchment drawing in three dimensions, ink dripping. [LUCIEN] steps half in front of [ELARA]; she whispers in disbelief. Slow pull back. [NEG]`
-- **Continuity:** same creature as SH02; ink only, gold not yet.
+### `S02-SH03` — The Fantasy School Reveal
+- **Duration:** 7.0s (0:18–0:25)
+- **Visual Action:** From behind Lucien and Elara, the camera rises to reveal that their ordinary school has transformed into an immense Gothic academy above the clouds: familiar classroom windows glowing with teal light, floating bridges connecting impossible towers, staircases rearranging in mid-air, and a vast central dome turning slowly.
+- **Camera:** Slow, majestic crane pedestal rise from low behind their shoulders to an extreme wide vertical reveal.
+- **Characters:** Lucien and Elara stand small in the foreground, hands at their sides, staring upward in awe.
+- **Dialogue (`A2`/`A3`):**
+  - **ELARA:** *"Where are we?"*
+  - **LUCIEN:** *"I wish I knew."*
+- **Audio:** `A5` — Orchestral wonder theme swells (solo cello into soaring French horns and ethereal choir) + `A2`/`A3` dialogue.
+- **Approved References:** `[REF:ACADEMY]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical establishing shot, monumental weathered black basalt Gothic academy suspended over an ocean of rolling teal clouds, floating arched bridges linking towers, moving staircases in mid-air, tall windows glowing teal, vast rotating bronze astrolabe dome, Lucien and Elara seen from behind in the foreground, photorealistic scale --ar 9:16`
+- **Motion Prompt:** `Slow crane rise behind Lucien and Elara standing on the causeway, revealing the colossal floating Gothic academy. Clouds roll gently below. Floating staircases shift slowly. Central doors open in the distance.`
+- **Continuity Notes:** Master architectural reference for the academy.
 
-### S03-SH04 - It looks at their hands | 3 s | 0:41-0:44
-- **Action:** The creature stares at Lucien and Elara's hands, fingers a few inches apart; a thin gold line appears across its body.
-- **Camera:** Close, creature POV then reverse.
-- **Characters:** Their hands near each other, not joined.
-- **Dialogue:** none
-- **Audio:** low resonance; heartbeat begins faintly.
-- **Prompt:** `[STYLE] Close on the featureless face of the ink creature turning toward [LUCIEN] and [ELARA]'s hands hanging a few inches apart; a thin molten gold line draws across the creature's body. [NEG]`
-- **Continuity:** hands **close but not joined**. Gold line = the mark's design (preview).
+### `S02-SH04` — The Enchanted Classroom: Floating Desks
+- **Duration:** 4.0s (0:25–0:29)
+- **Visual Action:** Lucien and Elara step through the grand entrance into an enchanted classroom. Desks float gently at varying altitudes in mid-air. An antique blackboard in the background displays a glowing, rotating star constellation. Spun-gold mathematical equations drift through the air.
+- **Camera:** Smooth gliding tracking shot following them into the center of the floating room.
+- **Characters:** Walking cautiously side by side, looking around in astonishment.
+- **Dialogue:** None.
+- **Audio:** `A4` — Soft humming resonance, subtle crystalline chimes, floating wooden desk creaks.
+- **Approved References:** `[REF:ENCHANTED_CLASSROOM]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical interior shot of an enchanted Gothic classroom, wooden school desks floating weightlessly in mid-air, chalkboard displaying moving celestial star constellations, glowing golden calculus equations orbiting the air, tall lancet windows, Lucien and Elara walking between floating desks, photorealistic --ar 9:16`
+- **Motion Prompt:** `Smooth tracking camera moving behind Lucien and Elara as they walk into the enchanted classroom. Wooden desks bob gently in zero gravity. Golden equations rotate slowly in the air.`
+- **Continuity Notes:** Lighting is magical but grounded: warm gold equations in cool slate architecture.
 
-### S03-SH05 - The sealed door | 4 s | 0:44-0:48
-- **Action:** The creature turns and walks toward a sealed door bearing the seal symbol. Something moves behind the door.
-- **Camera:** Behind the pair, then push to the door.
-- **Characters:** They follow, uncertain.
-- **Dialogue:** ELARA "Why is it leading us there?" - LUCIEN "Maybe it knows something we don't."
-- **Audio:** footsteps, a distant metallic movement behind the door.
-- **Prompt:** `[STYLE] The ink creature walks toward a huge sealed black door carved with a geometric seal symbol matching the gold crack. [LUCIEN] and [ELARA] follow. Slow push to the door; a faint shadow shifts in the seam behind it. [NEG]`
-- **Continuity:** door symbol = SH01 symbol = S01 fracture pattern.
+### `S02-SH05` — The Equation Doorway
+- **Duration:** 3.0s (0:29–0:32)
+- **Visual Action:** Above the teacher's desk, a miniature solar system spins with glowing orbital rings. A complex geometric equation folds inward like origami into a glowing golden doorway. Elara reaches out her hand; the glowing equation ripples in response to her touch.
+- **Camera:** Medium close-up on Elara's hand approaching the folding equation, pushing through into the light.
+- **Characters:** Elara's expression is pure wonder; Lucien stands just behind her shoulder.
+- **Dialogue:** None.
+- **Audio:** `A4` — Crystalline origami folding sound, harmonic chime, warm energy hum.
+- **Approved References:** `[REF:ENCHANTED_CLASSROOM]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical close-up, a glowing molten-gold geometric mathematical equation hovering in the air folding itself into the shape of an open glowing doorway, a miniature galaxy spinning in the background, a teenage girl's hand reaching out, fingertips brushing the glowing light, photorealistic --ar 9:16`
+- **Motion Prompt:** `Close-up shot. The golden geometric equation folds smoothly into a dimensional doorway. Elara's hand moves forward; the light bends toward her fingers. Camera pushes forward toward the doorway.`
+- **Continuity Notes:** Leads directly into the Library between worlds.
 
----
+### `S02-SH06` — The Library Between Worlds
+- **Duration:** 4.0s (0:32–0:36)
+- **Visual Action:** Stepping through the doorway, they enter an enormous multi-tiered library. Leather-bound books orbit a massive spiral stone staircase. A floating brass platform glides between infinite towering shelves. A giant rose window reveals swirling purple galaxies instead of sky.
+- **Camera:** Rising vertical parallax shot displaying the staggering height of the library.
+- **Characters:** Lucien and Elara walking along an arched stone walkway.
+- **Dialogue:** None.
+- **Audio:** `A4` — Whispering pages of fluttering books, smooth mechanical glide of brass platforms, deep celestial hum.
+- **Approved References:** `[REF:LIBRARY]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot of a colossal infinite Gothic library, thousands of leather books floating and orbiting a central spiral staircase, a giant round window revealing a purple spiral galaxy in deep space, floating platforms gliding between bookshelves, Lucien and Elara on a stone balcony, photorealistic --ar 9:16`
+- **Motion Prompt:** `Slow pedestal rise in the monumental library. Books orbit slowly in smooth paths. Distant galaxy outside window slowly rotates. Lucien and Elara walk along the stone balcony.`
+- **Continuity Notes:** Retains the awe and grandeur of the exploration act.
 
-# SCENE 4 - THE CHAMBER THAT REMEMBERS (0:48-1:10)
+### `S02-SH07` — The Book of the Academy
+- **Duration:** 3.0s (0:36–0:39)
+- **Visual Action:** On a stone pedestal, an ancient leather tome opens itself. On the aged vellum page is an ink illustration of the academy, marked with a distinctive geometric symbol matching the golden crack from their classroom desk. Lucien points to it, looking at Elara. Wonder shifts into mystery.
+- **Camera:** Macro close-up on the opening book page, tilting to Lucien's serious reaction.
+- **Characters:** Lucien observing closely; Elara looking over his shoulder.
+- **Dialogue:** None.
+- **Audio:** `A4` — Heavy parchment turning, crisp metallic tick.
+- **Approved References:** `[REF:LIBRARY]`, `[REF:LUCIEN]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical macro shot, an ancient leather-bound book on a carved stone lectern opening by itself, page showing an intricate hand-drawn architectural illustration of the Gothic academy with a glowing molten-gold geometric fracture symbol, Lucien looking down at it, photorealistic --ar 9:16`
+- **Motion Prompt:** `Macro push toward the ancient book as its page settles. The golden symbol on the paper glints. Lucien's hand points toward the symbol, then camera tilts up to his alarmed eyes.`
+- **Continuity Notes:** The symbol must match the classroom fracture and the sealed door emblem.
 
-### S04-SH01 - The chamber | 4 s | 0:48-0:52
-- **Action:** The creature leads them into a hidden circular chamber: enormous black pillars, metal rings rotating around a black-glass sphere that reflects nothing. No visible light source.
-- **Camera:** Centered one-point perspective, slow glide in.
-- **Characters:** Small figures in the foreground.
-- **Dialogue:** none
-- **Audio:** music drops; ambience cuts; only slow ring rotation.
-- **Prompt:** `[STYLE] Symmetrical one-point perspective into a circular chamber of enormous black-stone pillars; bronze rings rotate slowly around a suspended black-glass sphere that reflects nothing. No visible light source. [LUCIEN] and [ELARA] stand small in the foreground. Slow glide in. [NEG]`
-- **Continuity:** the sphere reflects **nothing** - not even them. Gold fissures appear only later.
+### `S02-SH08` — The Forbidden Corridor
+- **Duration:** 5.0s (0:39–0:44)
+- **Visual Action:** Following the direction of the symbol, they walk into a long, shadowed corridor where every portrait is draped in dark cloth. As they pass, the lantern lights along the walls extinguish one by one behind them, leaving them walking toward the only illuminated door at the end.
+- **Camera:** Low-angle tracking shot moving backward ahead of Lucien and Elara as they advance.
+- **Characters:** Walking cautiously side by side, tense and hyper-aware.
+- **Dialogue:** None.
+- **Audio:** `A4` — Echoing footsteps on stone, soft puffs of lanterns going dark, rising acoustic vacuum.
+- **Approved References:** `[REF:CORRIDOR]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, long Gothic stone corridor lined with framed portraits covered in black shroud cloth, wall lanterns extinguishing into darkness one after another behind Lucien and Elara as they walk forward, cold teal shadows, eerie tension, photorealistic --ar 9:16`
+- **Motion Prompt:** `Camera tracks backward ahead of Lucien and Elara walking forward down the hallway. Behind them, wall lanterns click off sequentially into darkness. They stay alert.`
+- **Continuity Notes:** Shifting from wonder into suspense.
 
-### S04-SH02 - Lucien approaches | 3 s | 0:52-0:55
-- **Action:** The rings slow, one by one, and stop. Faint gold glows beneath the surface of the sphere. Lucien steps toward it.
-- **Camera:** Over-the-shoulder behind Lucien.
-- **Characters:** Elara a pace behind, wary.
-- **Dialogue:** none
-- **Audio:** rings slowing, then total silence.
-- **Prompt:** `[STYLE] Over-the-shoulder behind [LUCIEN] as the bronze rings around the black sphere slow and stop; faint gold light glows beneath the sphere's dark surface. [ELARA] stays a pace behind. [NEG]`
-- **Continuity:** the sphere reflects neither character.
-
-### S04-SH03 - Fingers in the glass | 5 s | 0:55-1:00
-- **Action:** Gold fissures spread, then rearrange into the shape of two interlaced hands, exactly their fingers.
-- **Camera:** Macro on the sphere surface, slow push.
-- **Characters:** reflections absent; their hands at frame edge.
-- **Dialogue:** ELARA "Have we been here before?" - LUCIEN "I've never seen this place."
-- **Audio:** heartbeat, ice-crack tones, near silence.
-- **Prompt:** `[STYLE] Macro on the black glass sphere surface: golden kintsugi fissures spread, then rearrange into the exact shape of two interlaced hands. Slow push-in. [NEG]`
-- **Continuity:** same fissure style as S01-SH04; the interlaced-hands shape must reappear at the end as the joined hands.
-
-### S04-SH04 - The marks | 3 s | 1:00-1:03
-- **Action:** Elara reaches toward the sphere; gold light spreads across both palms; matching marks appear.
-- **Camera:** Close on both palms, side by side.
-- **Characters:** they look at their hands, then each other.
-- **Dialogue:** none
-- **Audio:** a soft chime, a pulse.
-- **Prompt:** `[STYLE] Close on [ELARA]'s and [LUCIEN]'s open palms; golden light spreads and [MARK] appears on each palm at the same place. They look at their hands, then at each other. [NEG]`
-- **Continuity:** the mark is identical on both palms, same position every shot.
-
-### S04-SH05 - Memories? | 4 s | 1:03-1:07
-- **Action:** The sphere shows silhouettes of two figures in different unfamiliar worlds, together. Lucien has no answer.
-- **Camera:** Medium on the sphere with the pair as silhouettes in the foreground.
-- **Characters:** Elara uneasy, Lucien silent.
-- **Dialogue:** ELARA "Then why does this feel familiar?"
-- **Audio:** quiet, a faint heartbeat, a soft choir tone.
-- **Prompt:** `[STYLE] Inside the black sphere, two silhouetted figures stand together beneath unfamiliar stars, then dissolve into other worlds. [LUCIEN] and [ELARA] watch from the foreground as silhouettes. [NEG]`
-- **Continuity:** silhouettes look like them (same height difference).
-
-### S04-SH06 - The light dies | 3 s | 1:07-1:10
-- **Action:** The golden light vanishes. Behind the sphere an enormous shape moves in the darkness.
-- **Camera:** Slow push toward the sphere.
-- **Characters:** frozen.
-- **Dialogue:** none
-- **Audio:** silence, a faint heartbeat, a low inhuman rumble.
-- **Prompt:** `[STYLE] The gold light dies in the black sphere. Behind it, in the darkness, an enormous shape shifts. Slow push-in. [NEG]`
-- **Continuity:** never show the whole entity.
-
----
-
-# SCENE 5 - SOMETHING WOKE UP (1:10-1:30)
-
-### S05-SH01 - The entity stirs | 4 s | 1:10-1:14
-- **Action:** The rings spin backward; the entity stirs. Elara reaches toward Lucien, then hesitates.
-- **Camera:** Medium two-shot, handheld-steady.
-- **Characters:** Elara's hand hovers; Lucien looks down at it.
-- **Dialogue:** none
-- **Audio:** deep rumble, rings, rising orchestra.
-- **Prompt:** `[STYLE] The bronze rings spin backward behind [LUCIEN] and [ELARA]. She reaches toward his hand, then hesitates, her fingers hovering. He looks at her hand. Tension. [NEG]`
-- **Continuity:** hands separate until SH02.
-
-### S05-SH02 - The choice | 5 s | 1:14-1:19
-- **Action:** Lucien deliberately takes her hand. The marks connect into a single symbol.
-- **Camera:** Close on hands, then up to their faces.
-- **Characters:** a decision, not a reflex.
-- **Dialogue:** LUCIEN "Whatever that thing is... we face it together."
-- **Audio:** music swells, a clear chime as the marks join.
-- **Prompt:** `[STYLE] Close on [LUCIEN] deliberately taking [ELARA]'s hand; their palm marks connect into one continuous gold symbol of two interwoven lines. Tilt up to their faces, resolved. [NEG]`
-- **Continuity:** the joined hands = the interlaced-hands shape from S04-SH03.
-
-### S05-SH03 - The academy awakens | 3 s | 1:19-1:22
-- **Action:** The sphere floods the chamber with gold; gold lines race through the academy's walls.
-- **Camera:** Fast push, then outward.
-- **Characters:** silhouettes.
-- **Dialogue:** none
-- **Audio:** rising orchestra, crackle.
-- **Prompt:** `[STYLE] Gold light from the sphere floods the chamber; molten gold lines race up the black stone walls and out through the academy's corridors. Fast push then pull out. [NEG]`
-- **Continuity:** gold lines follow the palm-mark pattern.
-
-### S05-SH04 - Dome stops, windows black | 2 s | 1:22-1:24
-- **Action:** The dome stops rotating; every window turns black, one by one.
-- **Camera:** Extreme wide of the academy.
-- **Characters:** none.
-- **Dialogue:** none
-- **Audio:** music cuts; a single deep note.
-- **Prompt:** `[STYLE] Extreme wide of the floating academy at night; the great dome stops rotating and every window goes black one by one. [NEG]`
-- **Continuity:** same academy design as S02-SH05.
-
-### S05-SH05 - The eye | 3 s | 1:24-1:27
-- **Action:** The enormous shape behind the sphere opens one glowing eye. The couple turns toward it.
-- **Camera:** Slow push to the eye; cut to their backs.
-- **Characters:** facing it, hands joined.
-- **Dialogue:** none
-- **Audio:** sub-bass drop, silence.
-- **Prompt:** `[STYLE] In the black sphere's dark interior, a colossal golden eye opens, wet iris reflecting two tiny silhouettes. Slow push. Cut to the backs of [LUCIEN] and [ELARA], hands joined, facing it. [NEG]`
-- **Continuity:** only the eye, never the whole creature.
-
-### S05-SH06 - Title | 3 s | 1:27-1:30
-- **Action:** Cut to black. A golden fissure cracks the dark and draws the title: THE UNWRITTEN.
-- **Camera:** locked.
-- **Characters:** none.
-- **Dialogue:** none
-- **Audio:** one deep impact, then silence; a pencil rolling to a stop.
-- **Prompt:** none: built in the edit (gold line + title typography).
-- **Continuity:** typography is original; the fissure matches the first one.
+### `S02-SH09` — The Sealed Door Opens
+- **Duration:** 4.0s (0:44–0:48)
+- **Visual Action:** At the end of the corridor stands a massive blackened-iron door etched with the fracture symbol. A faint metallic scrape echoes from behind the door. The heavy iron door parts inward by itself, revealing darkness within.
+- **Camera:** Slow push-in over Lucien and Elara's shoulders toward the parting door.
+- **Characters:** Both pause before the threshold.
+- **Dialogue (`A2`/`A3`):**
+  - **ELARA:** *"Something's in there."*
+  - **LUCIEN:** *"Then why does it feel like it's waiting for us?"*
+- **Audio:** `A4` — Deep hydraulic metal groan of parting iron + `A2`/`A3` dialogue.
+- **Approved References:** `[REF:CORRIDOR]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, Lucien and Elara standing before a colossal 20-foot blackened iron door etched with a glowing gold fracture emblem, the double doors slowly parting inward revealing a dark chamber, photorealistic --ar 9:16`
+- **Motion Prompt:** `Push forward between Lucien and Elara's shoulders toward the heavy black iron door as it slowly glides open. Cold air spills out from the dark chamber.`
+- **Continuity Notes:** Direct gateway into Act 3.
 
 ---
 
-## Dialogue coverage check (15 lines)
-S01-SH03: 1, 2, 3 - S01-SH05: 4, 5 - S02-SH05: 6, 7 - S03-SH03: 8, 9 - S03-SH05: 10, 11 - S04-SH03: 12, 13 - S04-SH05: 14 - S05-SH02: 15.
+# ACT 3 — THE CHAMBER THAT REMEMBERS (0:48–1:05 | 17.0 Seconds)
 
-## Runtime check
-18 + 14 + 16 + 22 + 20 = **90 s**. Do not exceed 1:30.
+### `S03-SH01` — The Sphere in the Void
+- **Duration:** 5.0s (0:48–0:53)
+- **Visual Action:** Lucien and Elara enter a vast circular chamber of black basalt pillars. Suspended at the center is a 20-foot sphere of flawless black glass, surrounded by concentric rotating bronze mechanical rings. Thin golden fissures pulse beneath its surface. The room is almost completely silent.
+- **Camera:** Symmetrical centered one-point perspective gliding forward toward the sphere.
+- **Characters:** Lucien and Elara framed small at the bottom of the screen.
+- **Dialogue:** None.
+- **Audio:** `A5` score cuts out; `A4` slow mechanical bronze ring rotation, echoing water drip.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, monumental subterranean circular chamber of black basalt pillars, floating 20-foot pitch-black glass sphere suspended in center, rotating bronze mechanical gyroscopic rings, thin molten gold veins inside sphere, Lucien and Elara small in foreground, photorealistic --ar 9:16`
+- **Motion Prompt:** `Slow, smooth push forward through the parting doorway into the circular chamber. Bronze rings turn smoothly around the stationary black glass sphere. Total silence.`
+- **Continuity Notes:** Sphere reflects no light; gold veins are internal.
+
+### `S03-SH02` — Interlaced Fingers & The Marks
+- **Duration:** 4.0s (0:53–0:57)
+- **Visual Action:** Lucien approaches the sphere. The golden fissures inside rearrange into the shape of two interlaced hands. Elara raises her hand; golden light illuminates across both their open palms, leaving matching golden marks.
+- **Camera:** Close-up on the sphere surface rearranging, cutting to a macro of their open palms side by side.
+- **Characters:** Elara bewildered; Lucien staring in disbelief.
+- **Dialogue (`A2`/`A3`):**
+  - **ELARA:** *"Have we been here before?"*
+  - **LUCIEN:** *"I've never seen this place."*
+- **Audio:** `A4` — Soft chime, single heartbeat pulse + `A2`/`A3` dialogue.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:HAND_MARK]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical close-up, two teenage palms held side-by-side with open fingers, a thin molten-gold kintsugi line glowing softly across the center of each palm, in background the black glass sphere with gold fissures in shape of intertwined fingers, photorealistic --ar 9:16`
+- **Motion Prompt:** `Macro shot. Golden fissures on the sphere surface morph smoothly into the shape of two interlaced hands. Camera tilts to Lucien and Elara's open palms as a matching thin gold mark illuminates on their skin.`
+- **Continuity Notes:** Identical mark design on both palms. Hands remain separate.
+
+### `S03-SH03` — Silhouettes Across Worlds
+- **Duration:** 4.0s (0:57–1:01)
+- **Visual Action:** The sphere reflects no room light, but shows faint golden silhouettes: two figures resembling Lucien and Elara standing together beneath alien skies and forgotten ruins.
+- **Camera:** Medium shot over their shoulders looking into the dark glass.
+- **Characters:** Elara searching Lucien's eyes; Lucien has no answer.
+- **Dialogue (`A3`):**
+  - **ELARA:** *"Then why does this feel familiar?"*
+- **Audio:** `A4` — Faint celestial hum + `A3` whispered dialogue.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, Lucien and Elara in silhouette looking into the dark glass sphere, inside the dark glass are faint glowing golden silhouettes of a boy and girl standing together across ancient ruined cities under unfamiliar stars, photorealistic --ar 9:16`
+- **Motion Prompt:** `Gentle push-in on the black sphere as faint golden silhouettes dissolve softly between different alien horizons inside the dark glass. Lucien and Elara watch motionless.`
+- **Continuity Notes:** Preserves the core mystery without giving away the answer.
+
+### `S03-SH04` — The Light Dies & The Shape Shifts
+- **Duration:** 4.0s (1:01–1:05)
+- **Visual Action:** Suddenly, every golden fissure inside the sphere extinguishes. The bronze rings decelerate to a dead stop. In the pitch-black void behind the sphere, a colossal shape shifts silently.
+- **Camera:** Slow push-in toward the black sphere and the dark abyss behind it.
+- **Characters:** Lucien and Elara freeze in the sudden dark.
+- **Dialogue:** None.
+- **Audio:** `A4` — Sudden total silence, then a low 20Hz subterranean rumble like a giant heartbeat.
+- **Approved References:** `[REF:CHAMBER]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, the black-glass sphere floating in complete darkness with all gold lights extinguished, stationary bronze rings, in the deep shadowed void behind the sphere a colossal indistinct shape moves, cold teal rim light, ominous awe --ar 9:16`
+- **Motion Prompt:** `Slow creeping push-in on the darkened black sphere. The bronze rings slow and freeze. In the deep shadow behind the sphere, an immense curved silhouette shifts slowly.`
+- **Continuity Notes:** Never reveal the full monster—only scale and motion.
+
+---
+
+# ACT 4 — THE CHOICE & CLIMAX (1:05–1:30 | 25.0 Seconds)
+
+### `S04-SH01` — The Decision
+- **Duration:** 7.0s (1:05–1:12)
+- **Visual Action:** Elara looks toward the darkness in fear. She reaches for Lucien's hand, hesitates, and stops. Lucien looks at her hovering hand, looks at her face, and deliberately takes her hand. As their palms join, their golden marks connect into a single continuous symbol, and the sphere flares with amber light.
+- **Camera:** Medium two-shot focused on their hands, moving into close-up as the marks align, then up to their resolved expressions.
+- **Characters:** Conscious choice to face the unknown together.
+- **Dialogue (`A2`):**
+  - **LUCIEN:** *"Whatever that thing is… we face it together."*
+- **Audio:** `A2` dialogue + `A5` emotionally resonant musical motif enters + `A4` warm golden chime.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:LUCIEN]`, `[REF:ELARA]`, `[REF:HAND_MARK]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical close-up of Lucien deliberately taking Elara's hand in the dark chamber, their palm marks connecting into one continuous molten-gold interwoven loop, warm gold light flaring around their fingers, tilt up to their determined faces, photorealistic --ar 9:16`
+- **Motion Prompt:** `Medium two-shot. Elara reaches her hand out and hesitates. Lucien looks at her hand, then firmly takes it. The golden marks on their palms touch and form a complete glowing circuit. Camera tilts up to their eyes.`
+- **Continuity Notes:** The emotional heart of the film. Their hands stay joined from here to the end.
+
+### `S04-SH02` — The Academy Awakens
+- **Duration:** 4.0s (1:12–1:16)
+- **Visual Action:** Molten-gold energy surges outward from their joined hands and races through the chamber floor, spreading through the academy. Rapid montage: the enchanted classroom freezes mid-air; floating books freeze in place in the library.
+- **Camera:** Dynamic pull-back through chamber walls followed by rapid 2-cut progression through the school.
+- **Characters:** Lucien and Elara holding hands in the glowing chamber.
+- **Dialogue:** None.
+- **Audio:** `A5` — Orchestral surge with rising brass and choir + `A4` resonance traveling through stone.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:ENCHANTED_CLASSROOM]`, `[REF:LIBRARY]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, golden energy veins racing up black basalt stone walls and corridors, cutting to the enchanted classroom where floating desks freeze motionless in mid-air, photorealistic --ar 9:16`
+- **Motion Prompt:** `Fast camera movement as golden light streams through stone channels. Cut to the enchanted classroom: desks and equations instantly freeze in place. Cut to the library: floating books stop dead.`
+- **Continuity Notes:** Connects the chamber directly back to the school exploration environments.
+
+### `S04-SH03` — The Dome Stops & Windows Turn Black
+- **Duration:** 5.0s (1:16–1:21)
+- **Visual Action:** Exterior wide view of the Gothic academy above the clouds. The colossal central dome grinds to a halt. Every illuminated window across the towers turns black one by one. The clouds spiral around a vast emptiness. The beautiful school has become a containment fortress.
+- **Camera:** Extreme wide vertical establishing shot.
+- **Characters:** None.
+- **Dialogue:** None.
+- **Audio:** `A4` — Massive mechanical grinding halt + orchestral climax abruptly cutting out to near silence.
+- **Approved References:** `[REF:ACADEMY]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, exterior of the monumental Gothic academy floating above dark teal clouds at night, the huge bronze central dome stopping its rotation, every warm window light extinguishing into black darkness one by one, clouds swirling ominously --ar 9:16`
+- **Motion Prompt:** `Wide shot of the academy. The massive bronze dome shudders and stops rotating. The golden and teal lights in the windows blink out sequentially. Clouds churn into a spiral.`
+- **Continuity Notes:** Matches the silhouette from `S02-SH03`.
+
+### `S04-SH04` — The Golden Eye Opens
+- **Duration:** 6.0s (1:21–1:27)
+- **Visual Action:** Inside the dark chamber, the vast darkness behind the sphere shifts forward. Deep in the void, an enormous, hyper-intelligent golden eye slowly opens. Lucien and Elara stand holding hands, looking up at it. Their joined hands are the only warm light in the room.
+- **Camera:** Slow, creeping push toward the black sphere as the colossal golden eye opens.
+- **Characters:** Lucien and Elara seen from behind, silhouettes with joined glowing hands.
+- **Dialogue:** None.
+- **Audio:** `A4` — Low 20Hz sub-bass vacuum drop, total acoustic silence.
+- **Approved References:** `[REF:CHAMBER]`, `[REF:LUCIEN]`, `[REF:ELARA]`
+- **Image-Gen Prompt:** `cinematic 9:16 vertical shot, deep inside the dark chamber behind the black glass sphere, a colossal ancient golden eye with a reptilian iris slowly opening in the pitch darkness, reflecting the tiny silhouettes of Lucien and Elara standing below with joined glowing hands, photorealistic Denis Villeneuve aesthetic --ar 9:16`
+- **Motion Prompt:** `Slow push-in toward the darkness behind the sphere. A massive golden eyelid parts, revealing a colossal golden eye that dilates and looks directly down at the foreground silhouettes. Hold.`
+- **Continuity Notes:** Climax of the supernatural reveal. Only the eye is visible.
+
+### `S04-SH05` — Cut to Black & Title
+- **Duration:** 3.0s (1:27–1:30)
+- **Visual Action:** Smash cut to black. A hair-thin molten-gold fissure cracks across the center of the dark frame and etches itself into the typography: **THE UNWRITTEN**.
+- **Camera:** Locked 9:16 graphic frame (assembled in DaVinci Resolve).
+- **Characters:** None.
+- **Dialogue:** None.
+- **Audio:** `A4` — One massive, distorted cinematic impact (BRAAAM), cutting instantly into silence; faint sound of a wooden pencil rolling to a stop.
+- **Approved References:** None (post-production graphic).
+- **Image-Gen Prompt:** Built in DaVinci Resolve / FFmpeg for crisp typography.
+- **Motion Prompt:** None.
+- **Continuity Notes:** Final title card.

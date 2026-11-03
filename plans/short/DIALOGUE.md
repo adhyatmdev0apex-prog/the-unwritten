@@ -1,34 +1,36 @@
-# Dialogue - Short Film (1:30 max) - Direction B
+# Dialogue — THE UNWRITTEN (90-Second Master) — Direction B
 
-**Relationship direction B (locked):** Lucien and Elara feel an inexplicable pull toward each other and neither understands why. They are comfortable, curious, instinctively protective. We do **not** establish that they are already in love. B does not mean they feel nothing; it means they don't yet understand what they feel or why.
+**Format:** 9:16 Vertical | **Runtime:** 1:30 (90s)
+**Canonical Relationship Direction (B):** Lucien and Elara feel an inexplicable connection, but neither understands its origin. They are comfortable around each other, naturally curious, and instinctively protective—not established as a couple.
+**Rules:**
+- No narrator or voice-over anywhere.
+- Dialogue is recorded on separate audio tracks (`A2` Lucien, `A3` Elara) and mixed cleanly in post-production.
 
-No narrator. Sparse dialogue. Superseded: all earlier provisional lines ("Tell me you're seeing that", "...that's us", "This isn't a school", the narrator lines, and the earlier A-direction lines "I was waiting for you" / "I'm here").
+---
 
-## Locked lines
-| # | Scene | Speaker | Line | Delivery / action |
+## Locked Dialogue Lines (90-Second Cut)
+
+| # | Act & Timestamp | Speaker | Line | Context & Delivery |
 |---|---|---|---|---|
-| 1 | 1 | ELARA | "You're not even going to pretend you were studying?" | amused, quiet |
-| 2 | 1 | LUCIEN | "I was trying to." | caught out, half a smile |
-| 3 | 1 | ELARA | "Clearly." | she notices his unfinished work and smiles |
-| 4 | 1 | ELARA | "Lucien...?" | quiet, the golden crack has appeared |
-| 5 | 1 | LUCIEN | "Stay close." | low, instinctively protective |
-| 6 | 2 | ELARA | "Where are we?" | staring up at the academy |
-| 7 | 2 | LUCIEN | "I wish I knew." | |
-| 8 | 3 | ELARA | "Tell me that's not real." | whisper |
-| 9 | 3 | LUCIEN | "I was hoping you'd say that." | |
-| 10 | 3 | ELARA | "Why is it leading us there?" | creature heads to the sealed door |
-| 11 | 3 | LUCIEN | "Maybe it knows something we don't." | |
-| 12 | 4 | ELARA | "Have we been here before?" | golden marks have just appeared on their palms |
-| 13 | 4 | LUCIEN | "I've never seen this place." | |
-| 14 | 4 | ELARA | "Then why does this feel familiar?" | sphere shows silhouettes of them in unfamiliar worlds. Lucien has no answer |
-| 15 | 5 | LUCIEN | "Whatever that thing is... we face it together." | Elara reaches toward him, **hesitates**; he looks at her hand and **deliberately takes it** |
+| **1** | Act 1 (0:10–0:12) | **ELARA** | *"You're not even going to pretend you were studying?"* | Amused, quiet tease as the classroom empties |
+| **2** | Act 1 (0:10–0:12) | **LUCIEN** | *"I was trying to."* | Small, slightly embarrassed smile as he glances at his notebook |
+| **3** | Act 1 (0:10–0:12) | **ELARA** | *"Lucien…?"* | Unsettled whisper as the golden crack appears under the desk |
+| **4** | Act 2 (0:18–0:25) | **ELARA** | *"Where are we?"* | Staring up at the floating academy above the clouds |
+| **5** | Act 2 (0:18–0:25) | **LUCIEN** | *"I wish I knew."* | Watching the central doors open |
+| **6** | Act 2 (0:39–0:48) | **ELARA** | *"Something's in there."* | In the covered-portrait corridor outside the sealed door |
+| **7** | Act 2 (0:39–0:48) | **LUCIEN** | *"Then why does it feel like it's waiting for us?"* | Looking at the symbol matching their classroom fracture |
+| **8** | Act 3 (0:53–1:00) | **ELARA** | *"Have we been here before?"* | As matching golden marks appear on their palms |
+| **9** | Act 3 (0:53–1:00) | **LUCIEN** | *"I've never seen this place."* | Quiet, bewildered |
+| **10** | Act 3 (0:53–1:00) | **ELARA** | *"Then why does this feel familiar?"* | Watching silhouettes of themselves across unfamiliar worlds |
+| **11** | Act 4 (1:05–1:12) | **LUCIEN** | *"Whatever that thing is… we face it together."* | Looking at Elara's hesitating hand and deliberately taking it |
 
-15 lines (about 12-15 s of speech).
+---
 
-## Scene-by-scene staging notes
-- **Scene 1:** bell rings, other students leave, the two remain "together for a moment". Dialogue (lines 1-3) happens *after* the room empties. Then the crack: lines 4-5.
-- **Scene 4:** Lucien has **no answer** to line 14. Hold the silence.
-- **Scene 5:** the choice is the emotional climax. Elara hesitates; **Lucien** is the one who takes her hand. Marks connect, the academy awakens, the entity opens its eye, cut to black.
+## 58-Second Competition Cut Subset
 
-## Competition cut (58 s): keep these lines
-Lines **1, 2, 5, 12, 13, 14, 15** (7 lines). Dropped: 3, 4, 6-11. Exact placement: [COMPETITION_CUT_58s.md](COMPETITION_CUT_58s.md).
+For the 58-second competition cut ([`COMPETITION_CUT_58s.md`](COMPETITION_CUT_58s.md)), use lines:
+- **Line 1 & 2** (The Classroom tease)
+- **Line 4 & 5** (The Academy Reveal)
+- **Line 8 & 9** (The Marks reveal)
+- **Line 10** (The Silhouettes mystery)
+- **Line 11** (The Deliberate Hand-Taking climax)

@@ -1,42 +1,48 @@
-# Story Bible
+# Story Bible — THE UNWRITTEN
 
-## Logline
-Two students in love stay behind in an ordinary classroom. A crack of gold opens under a desk, they fall together into a hidden academy above the clouds, and a sealed black-glass sphere reveals it has been waiting for the exact shape of their joined hands.
+## 1. Overview & Deliverables
+- **Title:** *THE UNWRITTEN — A School Beyond Reality*
+- **Theme:** School as a Fantasy Land (`fantasy-land`)
+- **Protagonists:** **Lucien** and **Elara**
+- **Canonical Relationship Direction:** **B — Drawn together without knowing why**
+- **Narration:** None anywhere in the film.
 
-## Title
-**THE UNWRITTEN** - a story nobody is allowed to finish for you.
+| Deliverable | Runtime | Primary Specification | Core Structure |
+|---|---|---|---|
+| **Canonical Short Film** | **1:30 (90.0s)** | [`plans/short/SHORT_FILM_PLAN.md`](../plans/short/SHORT_FILM_PLAN.md) & [`production/shot_list.md`](../production/shot_list.md) | **40% Fantasy School Exploration (36s)** / 60% Dramatic Arc (54s) |
+| **Competition Cut** | **0:58 (58.0s)** | [`plans/short/COMPETITION_CUT_58s.md`](../plans/short/COMPETITION_CUT_58s.md) | VIBGYOR AIVerse Creator Studio 45–60s vertical deliverable (~40% exploration ratio preserved) |
+| **Extended Film Concept** | **~10:00** | [`docs/CANONICAL_SCREENPLAY.md`](CANONICAL_SCREENPLAY.md) & [`plans/full/`](../plans/full/README.md) | Long-form 6-act expansion kept separate from the short film |
 
-## Themes
-- Love as a *choice*, not a prophecy. The mark is evidence of the mystery; their decision to stay together is evidence of love. Those are related but not the same.
-- Creation outgrowing its creator.
-- Schools (and adults) that teach you the world is smaller than it is.
+---
 
-## Emotional spine
-In a world that has become incomprehensible, they reach for each other. Neither protects alone: when one steps in front, the other pulls them level.
+## 2. Premise & Central Mystery
+Two students discover that their ordinary school conceals an entrance to an impossible Gothic academy beyond reality. As they explore its floating classrooms, infinite libraries, and forbidden corridors, an ancient sealed creation recognizes their inexplicable connection. When matching golden marks appear on their palms, their deliberate choice to face the unknown together awakens something that should have remained forgotten.
 
-## Structure (master film, ~10 min)
-| Act | Time | Beat |
-|---|---|---|
-| I - The World That Notices Them | 0:00-1:30 | Classroom, the crack, the fall |
-| II - The Academy Beyond Reality | 1:30-3:30 | Arrival, the academy, details that don't fit |
-| III - The Thing That Was Never Finished | 3:30-5:30 | The unfinished ink creature, the missing history |
-| IV - The Chamber That Remembers | 5:30-7:30 | Sealed chamber, hands in the sphere, the palm marks |
-| V - The Eternal Mark | 7:30-9:00 | The choice, the bond mark |
-| VI - The Thing That Woke Up | 9:00-10:00 | The academy changes, something answers, title |
+**The Central Question (Unanswered in the Short Film):**
+*Are Lucien and Elara connected across lifetimes, or has something inside the academy deliberately brought them together?*
 
-Full scene text: [CANONICAL_SCREENPLAY.md](CANONICAL_SCREENPLAY.md).
+The short film deliberately leaves this unanswered while making three things clear to the audience:
+1. Lucien and Elara share an unusual, unexplained connection.
+2. The academy—and the sealed sphere at its heart—recognizes that connection.
+3. Their choice to face it together awakens a vast, ancient presence behind the sphere.
 
-## The mystery
-The academy is not only a school. It is a containment system built around a sphere, and the sphere answers to a bonded pair. Their arrival changes the balance of something the school has hidden for a very long time.
+---
 
-## Optional explanation layer (use only if it does not contradict the ambiguity above)
-Long ago, two students (the First Pair) sat the final exam - *survive a world created by your own imagination* - and their world refused to end. The academy sealed it in the sphere and wrote a rule against paired creation. The golden eye in the sphere may be the last First Author, holding that world together alone: not a monster, watching two kids who look like its memory.
+## 3. Four-Act Architecture (90-Second Master)
 
-Prophecy inscription (optional): *"Two hands wrote it. Two hands will close it. Neither will leave the same."*
+### Act 1 — The Last Bell (0:00–0:12 | 12s, 13.3%)
+Classroom opening sweep, bell rings, students depart over 4 seconds. Lucien and Elara remain; teasing exchange (*"You're not even going to pretend you were studying?" / "I was trying to."*). A hexagonal pencil stops dead at the desk edge; a thin molten-gold crack opens in the floor shadow (*"Lucien…?"*); the crack spreads across the floor.
 
-## Rules of the story
-1. No narrator. Inscriptions and the leads' dialogue only.
-2. They fall together; they do not step through.
-3. Never state "you are destined". Let the audience decide whether it's fate or choice.
-4. Show the magic curriculum only when it serves the mystery.
-5. One master story, one separate 45-60s competition cut.
+### Act 2 — Their School, Beyond Reality (0:12–0:48 | 36s, 40.0% — Exploration Core)
+*The Main Event: Exploring the wonder of their school transformed into an impossible fantasy world.*
+- **0:12–0:18:** Impossible fall through fragments of worlds (upside-down forest, stone arches, sky ocean); reach and catch wrist in free fall; landing solidly on black-stone platform; hands release.
+- **0:18–0:25:** Fantasy school reveal: Gothic academy above teal clouds, floating bridges, turning dome, central doors open (*"Where are we?" / "I wish I knew."*).
+- **0:25–0:32:** The enchanted classroom: floating desks in zero gravity, celestial constellation blackboard, orbiting spun-gold equations, miniature solar system; equation folds into a glowing doorway and responds to Elara's touch.
+- **0:32–0:39:** The library between worlds: orbiting books around spiral stairs, galaxy rose window; ancient tome opens by itself, revealing the fracture symbol matching their classroom.
+- **0:39–0:48:** The forbidden corridor: long hallway with portraits draped in black shroud cloth, wall lanterns extinguishing sequentially behind them; sealed blackened iron door parting open (*"Something's in there." / "Then why does it feel like it's waiting for us?"*).
+
+### Act 3 — The Chamber That Remembers (0:48–1:05 | 17s, 18.9%)
+Circular basalt chamber, black-glass sphere floating in rotating bronze rings. Gold fissures rearrange into interlaced fingers; matching golden marks appear on both palms (*"Have we been here before?" / "I've never seen this place."*). Shifting silhouettes across worlds (*"Then why does this feel familiar?"*). Sudden darkness: gold lights extinguish, bronze rings freeze, and an enormous shape shifts in the void behind the sphere.
+
+### Act 4 — The Choice & Climax (1:05–1:30 | 25s, 27.8%)
+Elara reaches out, hesitates; Lucien looks at her hand, looks at her face, and deliberately takes her hand (*"Whatever that thing is… we face it together."*). Marks connect into a single symbol; sphere illuminates; golden energy races through the academy, freezing the enchanted classroom and library mid-air; central dome stops; windows go black; the colossal golden eye slowly opens in the void behind the sphere. Smash cut to black → **THE UNWRITTEN**.
