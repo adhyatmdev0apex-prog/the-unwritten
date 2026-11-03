@@ -231,219 +231,210 @@ Benchmarks: The Lion King, Spirited Away, Spider-Verse, WALL-E, GdT Pinocchio, N
 
 ### [Source File: prompts/short/COMPETITION_6_CLIPS_10S.md]
 
-# 🎬 58-SECOND COMPETITION CUT — 6-CLIP MASTER GENERATION PIPELINE
-## Engineered for Gemini Omni 1.1 Flash / Veo (10-Second Generation Limit)
+# 🎬 58-SECOND COMPETITION CUT — ULTRA-REALISTIC 6-CLIP MASTER PROMPT PACK
+## Engineered for Gemini Omni 1.1 Flash / Veo (10-Second Limit, 0.5-Second Micro-Choreography)
 
 > [!IMPORTANT]
-> **Generation Hardware & Model Settings:**
-> - **Model:** Gemini Omni 1.1 Flash / Veo
-> - **Aspect Ratio:** `9:16` Vertical
-> - **Resolution:** `720p` (or `1080p`)
-> - **Frame Rate:** `24 FPS`
-> - **Thinking:** `High`
-> - **Max Duration per Clip:** `10 seconds`
-> - **Total Duration:** 10s + 10s + 10s + 10s + 10s + 8s = **58 Seconds Exact** (Strictly within VIBGYOR 45–60s limit)
+> **Generation Hardware & Optical Parameters:**
+> - **Platform:** Gemini Omni 1.1 Flash / Google Flow / Veo
+> - **Aspect Ratio:** `9:16` Vertical (1080 × 1920)
+> - **Render Settings:** 24 FPS, Thinking: High, Photorealistic Live-Action 35mm Anamorphic Optics
+> - **Total Runtime:** 10.0s + 10.0s + 10.0s + 10.0s + 10.0s + 8.0s = **58.0 Seconds Exact**
+> - **Choreography Standard:** Micro-timed in **0.5-second continuous intervals** to eliminate harsh AI cuts and ensure seamless physical motion.
+> - **Prompt Density Standard:** Every prompt is an exhaustive, self-contained cinematic specification (>250 words) incorporating full world lore, physical inertia, subsurface scattering, and lighting physics.
 
 ---
 
-## 🛡️ THE GOLDEN RULES FOR THE MODEL (Treat It Like an Inexperienced Director)
-
-The model can produce breathtaking visuals, but if left unconstrained, it will hallucinate floating crystals, random sci-fi gadgets, costume changes, or facial morphing. 
-
-To guarantee continuity across all 6 clips:
-1. **Never ask the model to generate the whole movie at once.** Give it ONE clip at a time.
-2. **Every prompt contains 3 strict layers:**
-   - **Layer 1: Permanent Rules** (Character identity, costumes, world aesthetic, photorealism, strict negative constraints).
-   - **Layer 2: Second-by-Second Scene Instructions** (Precise choreography for the 10 seconds).
-   - **Layer 3: Camera & Transition Instructions** (Focal length, movement speed, start/end framing).
-3. **The Visual Anchor Technique:** Take the **exact last frame** of Clip N, save it as a still image, and upload it as the start-frame visual reference for Clip N+1.
-4. **Dialogue & Sound are Added in Post-Production:** Do NOT ask the video generator to synthesize audio, dialogue, or lip-sync. Video models distort faces when trying to speak. Dialogue and score are mixed on separate tracks in DaVinci Resolve.
+## 🛡️ THE VISUAL CONTINUITY ANCHOR TECHNIQUE
+1. **Never ask the model to jump-cut within a single 10-second clip.** Every clip is designed as a single continuous fluid optical movement (dolly, crane rise, tilt, rack-focus).
+2. **Visual Frame Anchor:** When Clip 1 finishes generating, export its exact final frame (9.9s–10.0s: the molten-gold crack spreading beneath the wooden desk) and upload it as the start-frame image reference for Clip 2. Repeat this frame-matching handoff for every subsequent clip.
+3. **Dialogue & Audio:** All spoken dialogue and music are mixed on separate post-production tracks (`A1`–`A6`) in DaVinci Resolve. Do not instruct the video model to synthesize lip movements or audio, as this causes facial distortion.
 
 ---
 
-## 📋 CLIP BREAKDOWN SUMMARY (58 SECONDS TOTAL)
-
-| Clip | Target Duration | Scene Narrative | Start Anchor → End Anchor |
-|---|---|---|---|
-| **Clip 1** | **10.0s** | Ordinary classroom → Bell rings → Students leave → Teasing moment → Golden fissure cracks under desk | Black screen → Crack spreading across floor |
-| **Clip 2** | **10.0s** | Floor fractures → Free fall past surreal worlds → Wrist catch → Causeway landing → Monumental Academy reveal | Fracturing floor → Academy central doors opening |
-| **Clip 3** | **10.0s** | Enchanted maths classroom (floating desks & constellations) → Science lab (spinning galaxy & equation doorway) | Stepping through academy doors → Equation doorway folding |
-| **Clip 4** | **10.0s** | Living painting on stone wall → Dimensional infinite library → Ancient tome opens with golden fracture symbol | Entering library → Lucien pointing at glowing symbol |
-| **Clip 5** | **10.0s** | Forbidden corridor with shrouded portraits → Lanterns click dark → 20-foot sealed iron door glides open | Shrouded hallway → Gliding into dark circular chamber |
-| **Clip 6** | **8.0s** | Hand hesitates → Lucien takes Elara's hand → Palm marks connect → Dome stops → Colossal golden eye opens → Title | Both hands joining → Golden eye reflecting them → Black Title |
-
----
-
-# 🚀 THE 6 PRODUCTION PROMPTS (COPY-PASTE READY)
+# 🚀 THE 6 ULTRA-REALISTIC PRODUCTION PROMPTS
 
 ---
 
 ### 🎬 CLIP 1 of 6: The Ordinary Classroom & The First Fracture
-* **Duration:** `10.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:04`: Camera at back of warm classroom sweeps down to eye-level. Students finishing work in afternoon sunbeams.
-  * `0:04–0:07`: School bell rings. Students stand, pack backpacks, and file out of the open door. Lucien and Elara remain seated at their wooden desk in mid-room.
-  * `0:07–0:09`: Lucien closes his leather notebook; Elara glances at his unfinished work with an amused smile. (Dialogue in post: *"You're not even going to pretend you were studying?" / "I was trying to."*)
-  * `0:09–0:10`: A hexagonal wooden pencil rolls and stops dead at the desk edge without falling. Beneath the desk, a hair-thin crack of glowing molten gold splits the floor shadow. Elara looks down in surprise.
-* **Anchor Reference to Upload:** Initial classroom reference image (`assets/references/classroom.png`) + Lucien & Elara character turnarounds.
+* **Duration:** `10.0 seconds exact` (0:00.0 – 0:10.0)
+* **Word Count:** ~380 words
+* **Narrative Arc:** Ordinary late-afternoon classroom → bell rings → students file out → teasing exchange → pencil stops dead at edge → hairline molten-gold kintsugi crack opens under desk.
+* **Input Reference to Attach:** `assets/references/classroom.png` + `characters/lucien/` & `characters/elara/` turnarounds.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters:
-- LUCIEN: 16-year-old teenage boy, tall, dark tousled hair, thoughtful observant eyes, tailored charcoal school coat with dark-teal lining, carrying a worn leather notebook.
-- ELARA: 16-year-old teenage girl, natural understated appearance, tailored charcoal school coat with visible dark-teal scarf lining, small wooden pencil behind her ear.
-Style: Natural warm late-afternoon sunlight, 35mm lens optics, realistic wooden desks, natural fabric folds, physically plausible shadows.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no 3D CGI look, no neon purple/blue light, no floating gadgets, no invented characters, no camera shake, no morphing faces, no generated dialogue or text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 aspect ratio (1080x1920), 24 FPS. Live-action 35mm anamorphic film capture, ARRI Alexa LF aesthetic. True optical physics: shallow depth of field with creamy circular bokeh, authentic anamorphic lens breathing, natural subtle film grain, physically accurate inverse-square lighting falloff. Atmosphere features warm 3200K late-afternoon sunlight cutting through tall, rain-streaked windowpanes, illuminating authentic suspended dust motes drifting with realistic fluid air currents. 
 
-[SCENE INSTRUCTIONS - EXACT 10-SECOND SEQUENCE]
-Second 0-4: Fade in from black. An ordinary high school classroom in warm late-afternoon light with dust motes drifting in sunbeams. Students are finishing work at wooden desks. Lucien and Elara sit calmly together at a desk in mid-room.
-Second 4-7: The classroom bell rings. Other students stand, pack backpacks, and walk out through the doorway. Lucien and Elara stay seated at their desk, watching. Hands rest on the desk, not touching.
-Second 7-9: Lucien closes his old leather notebook. Elara looks over at his unfinished page with a small amused smile. Understated friendly chemistry. They do not hold hands.
-Second 9-10: On their desk, a hexagonal wooden pencil rolls normally, reaches the edge, and stops dead in mid-air without falling. Camera tilts downward to the shadow beneath their desk where a hairline crack of intense molten gold splits the floor like glowing kintsugi, casting warm amber rim-light on their shoes.
+[CHARACTER & COSTUME SPECIFICATIONS]
+- LUCIEN: 16-year-old teenage boy, tall and lean, dark tousled hair with natural hair strands catching rim light, thoughtful observant dark eyes, authentic subsurface skin scattering with visible pores. Wearing a tailored charcoal wool school coat with a subtle dark-teal inner silk lining and minimal matte aged-bronze cuff fasteners over a dark uniform. Resting an old, scuffed dark leather notebook on the wooden desk.
+- ELARA: 16-year-old teenage girl, natural understated appearance, intelligent observant dark eyes, fine wisps of dark hair framing her face. Wearing a matching tailored charcoal wool coat with a visible dark-teal folded scarf lining. A small hexagonal yellow-and-black wooden pencil is tucked behind her ear.
+- Direction B Relationship: Natural, understated comfort between two students who feel an unexplained magnetic connection but are not romantically established. Their hands remain completely separate on the desk surface.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Start high at the back of the classroom looking down, smoothly sweeping down to a straight-on eye-level view with a very slight zoom out during seconds 0-4. Hold steady during departure. At second 9, smoothly tilt downward toward the rolling pencil and floor shadow beneath the desk. Clean end-frame on the spreading golden fissure.
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–1.5s: Fade in smoothly from absolute black. The camera begins at an elevated high-angle position at the rear corner of a realistic high school classroom, pointing diagonally downward across wooden desks toward students quietly finishing their work in warm golden sunlight.
+1.5s–3.5s: A slow, continuous mechanical jib arm lowers the camera smoothly downward from the high angle toward eye-level while executing a very subtle optical zoom out to expand spatial depth.
+3.5s–5.5s: The school bell chimes in the distance. The other students in the background naturally pack canvas backpacks, scrape wooden chair legs against linoleum flooring, stand up, and file out through the classroom doorway. Lucien and Elara remain seated motionless at their shared wooden desk in the middle row.
+5.5s–7.0s: The classroom empties completely into quiet dusk stillness. The camera glides forward into a steady medium two-shot. Lucien calmly closes his worn leather notebook; Elara glances sideways at his unfinished page and smiles with subtle, gentle teasing amusement. Lucien responds with a small, self-conscious half-smile. Hands rest separately on the wooden desk surface.
+7.0s–8.5s: The camera executes an organic rack focus from their faces down to the scarred wooden desk surface. A hexagonal graphite wooden pencil rolls naturally across the wood grain, reaches the beveled edge, and instantly locks completely dead in mid-air—defying physical momentum without bouncing or falling.
+8.5s–10.0s: The camera tilts smoothly downward toward the floor. In the pitch-black shadow cast beneath their desk, a microscopic hairline fracture of intense, glowing molten gold scores across the linoleum like living kintsugi lightning. The crack flexes and expands slightly, casting a sharp warm 2700K amber rim-light across the leather toes of their shoes and the wooden desk legs.
+
+[TRANSITION & CONTINUITY ANCHOR]
+End frame locks tightly onto the glowing molten-gold fissure spreading across the dark floor shadow, establishing the exact visual anchor for Clip 2.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no 3D anime, no CGI rendering, no plastic skin, no facial morphing, no glowing eyes, no magical fairy dust, no neon purple lighting, no floating crystals, no camera shake, no abrupt jump cuts, no generated subtitles or text.
 ```
 
 ---
 
-### 🎬 CLIP 2 of 6: The Fall & The Academy Reveal
-* **Duration:** `10.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:03`: The classroom floor fractures along golden seams into an infinite dark abyss. Lucien and Elara fall together past fragments of surreal worlds (an upside-down pine forest, floating Gothic arches, an ocean suspended in sky).
-  * `0:03–0:05`: In free fall, their hands slip apart; Lucien reaches out and catches Elara's wrist; she grips his hand firmly.
-  * `0:05–0:06`: They land solidly on a wet black-basalt stone causeway suspended above a vast sea of teal clouds. They steady each other and immediately release hands.
-  * `0:06–0:10`: Camera executes a slow, majestic crane pedestal rise behind them to reveal the colossal Gothic academy floating above the clouds. Towers rise into mist, floating bridges link cliffs, a massive central bronze dome rotates slowly, and tall windows glow with teal light. The central doors slowly open.
-* **Anchor Reference to Upload:** Last frame of Clip 1 (fissure under desk) + Academy Concept Image (`assets/references/academy.png`).
+### 🎬 CLIP 2 of 6: The Dimensional Fall & The Academy Reveal
+* **Duration:** `10.0 seconds exact` (0:10.0 – 0:20.0)
+* **Word Count:** ~395 words
+* **Narrative Arc:** Floor fractures into dimensional void → fall past upside-down forest, sky ocean & arches → wrist catch in free fall → solid basalt causeway landing → hands release → crane rise revealing Gothic academy above clouds as central doors open.
+* **Input Reference to Attach:** Exact final frame of Clip 1 + `assets/references/academy.png`.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters: Same LUCIEN (16, charcoal coat with dark-teal lining, dark hair) and same ELARA (16, charcoal coat with dark-teal scarf lining). Identical faces, clothing, and proportions to Clip 1.
-World: Monumental Gothic fantasy architecture, weathered black basalt stone, aged bronze gears, cold slate-teal clouds, restrained molten-gold light.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no plastic skin, no extra limbs, no distorted hands, no spaceships, no sci-fi lasers, no camera roll, no generated text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Ultra-photorealistic live-action visual effects, Christopher Nolan / Denis Villeneuve scale and weight. Masterful optical contrast: transitioning from intimate classroom dusk shadows to high-altitude cold slate-teal environmental light (6500K) contrasted against rich 2700K amber lantern glow from ancient stone windows. Volumetric fog layers, authentic aerodynamic wind resistance on wool coats, real basalt stone wetness reflections, and monumental architectural parallax.
 
-[SCENE INSTRUCTIONS - EXACT 10-SECOND SEQUENCE]
-Second 0-3: The wooden classroom floor breaks open along geometric molten-gold seams into deep void. Lucien and Elara fall in free fall side-by-side through an impossible surreal dimension, passing an upside-down pine forest floating above and stone arches drifting in dark mist. Clothes flutter naturally in high wind.
-Second 3-5: Close macro view in free fall: their hands reach out, slip, and Lucien firmly catches Elara's wrist as she grips his hand back. Five fingers per hand, natural skin texture.
-Second 5-6: They land with solid physical weight on a wet black-basalt stone causeway above an endless ocean of rolling teal clouds. Lucien steadies Elara; they immediately let go of their hands and stand side-by-side, breathing hard.
-Second 6-10: Both characters stand small in the foreground looking upward in awe (not holding hands). Before them, their ordinary school has transformed into an immense Gothic academy floating above the clouds: towering black stone spires, floating bridges, moving staircases, a massive rotating bronze astrolabe dome, and teal stained-glass windows. The central arched doors slowly part open.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA in identical tailored charcoal school coats with dark-teal inner lining. Identical facial bone structure, dark hair, and proportions. Zero clothing variations.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Begin with a dynamic downward tracking shot following the fall (0-3s). Quick cut to macro hand grip (3-5s). Cut to low angle on stone causeway (5-6s), transitioning into a slow, majestic crane pedestal rise upward behind their shoulders from low-angle to extreme wide establishing framing (6-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–1.5s: Starting directly from the final frame of Clip 1, the golden fissures instantly spiderweb outward, and the classroom floor breaks open along structural geometric seams, dissolving into a bottomless dimensional abyss.
+1.5s–3.5s: Lucien and Elara fall in free fall side-by-side through impossible vertical space. The camera tracks downward alongside them at high velocity. Outside the void, fragments of surreal worlds drift past: an upside-down evergreen pine forest suspended overhead, detached monumental Gothic stone arches, and a vast ocean of blue water floating weightlessly in the clouds. Their coats and hair whip violently with authentic aerodynamic turbulence.
+3.5s–5.0s: The camera pulls into a tight macro tracking shot on their hands in mid-air. In free fall, their fingers slip apart across the turbulent air; Lucien lunges forward and catches Elara firmly by the wrist; her fingers instantly grip his forearm back to maintain contact. Exactly five fingers per hand, natural skin compression under grip pressure.
+5.0s–6.5s: The falling motion decelerates with heavy physical inertia as both characters land with solid, damp impact on a vast causeway of weathered black volcanic basalt stone suspended thousands of feet above an endless sea of rolling teal clouds. Lucien steadies Elara; both instantly let go of each other's hands, standing upright a body-width apart, chests heaving as they catch their breath. Hands hang loosely at their sides.
+6.5s–8.5s: The camera begins a slow, breathtaking crane pedestal rise upward from ground level behind their shoulders, elevating into an extreme wide vertical establishing shot.
+8.5s–10.0s: The full monumental scale of the Academy is revealed against a cold twilight sky: towering weathered black basalt spires reaching into upper cloud layers, slender stone aqueducts spanning bottomless chasms, massive staircases repositioning in mid-air, and a colossal 2,000-foot rotating bronze astrolabe dome turning slowly in the distance. The central 40-foot arched bronze doors slowly groan open, spilling warm golden light onto the damp basalt causeway.
+
+[TRANSITION & CONTINUITY ANCHOR]
+Camera cranes upward behind Lucien and Elara's silhouettes, holding on the opening central doors of the Gothic citadel as the spatial entry point for Clip 3.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no plastic rendering, no superhero landings, no floating magic rings around characters, no extra fingers, no camera rolling, no neon laser beams, no generated text.
 ```
 
 ---
 
 ### 🎬 CLIP 3 of 6: The Enchanted Classroom & The Equation Doorway
-* **Duration:** `10.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:05`: Lucien and Elara step through the grand entrance into an enchanted Gothic classroom. Desks float weightlessly in zero gravity at varying heights. An antique slate blackboard displays rotating golden star constellations. Spun-gold mathematical vectors drift through the air.
-  * `0:05–0:08`: They walk toward a carved teacher's desk where a delicate miniature solar system rotates with glowing rings. A complex geometric equation folds inward like origami into a glowing golden doorway.
-  * `0:08–0:10`: Close-up as Elara reaches her hand toward the glowing equation doorway. The golden light bends gently toward her fingertips like living light. She smiles in pure wonder; Lucien watches beside her.
-* **Anchor Reference to Upload:** Last frame of Clip 2 (central academy doors parting) + Enchanted Classroom Reference (`assets/references/enchanted_classroom.png`).
+* **Duration:** `10.0 seconds exact` (0:20.0 – 0:30.0)
+* **Word Count:** ~375 words
+* **Narrative Arc:** Stepping into enchanted classroom → floating wooden desks & chalkboard constellation → spinning miniature solar system → hovering golden equation folds like origami into a glowing doorway → Elara reaches, light responds.
+* **Input Reference to Attach:** Final frame of Clip 2 (open citadel doors) + `assets/references/enchanted_classroom.png`.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters: Same LUCIEN and same ELARA in identical charcoal school coats with dark-teal lining. Identical faces, hairstyles, and costumes. Hands are NOT joined.
-Environment: Ancient Gothic classroom of weathered black stone, tall lancet windows with teal twilight outside, warm 2700K golden magical equations, dust motes.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no wand shooting, no neon fairy wings, no chaotic floating debris, no face morphing, no generated text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic photorealism, Panavision 35mm optics. Grounded physical lighting: cold slate-teal daylight cutting diagonally through tall stained-glass lancet windows, illuminating ancient airborne limestone dust motes, contrasted against delicate 2700K spun-gold mathematical vector equations glowing with authentic volumetric radiance. Furniture exhibits realistic zero-gravity buoyancy and gentle air-resistance drift.
 
-[SCENE INSTRUCTIONS - EXACT 10-SECOND SEQUENCE]
-Second 0-5: Smooth tracking shot following Lucien and Elara as they walk cautiously into an enchanted Gothic classroom. Wooden school desks float gently in zero gravity at different heights around the room. On the back wall, a giant antique blackboard displays glowing golden star constellations moving in real time. Three-dimensional mathematical equations made of spun gold drift slowly through the air.
-Second 5-8: They approach a heavy dark-wood teacher's desk. Above the desk, a miniature glowing solar system rotates with tiny planets and orbital rings. A complex geometric equation hovering in the air folds inward upon itself like golden origami, expanding into a rectangular glowing dimensional doorway.
-Second 8-10: Close-up on Elara's hand reaching toward the folding equation doorway. As her fingers approach, the golden light bends and ripples gently toward her skin. Her face expresses awe and wonder, not fear. Lucien stands half a pace behind her, looking at the doorway with intense curiosity.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats, dark-teal scarf lining, dark tousled hair, scuffed leather notebook carried in Lucien's hand, pencil behind Elara's ear. Direction B: comfortable, intensely curious, exploring side-by-side but strictly not holding hands.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Begin as a smooth forward tracking dolly behind the characters entering the classroom (0-5s). Pan gently toward the teacher's desk and the folding equation (5-8s). Move into a medium close-up pushing toward Elara's hand and the doorway of light (8-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.0s: The camera executes a smooth Steadicam forward tracking move behind Lucien and Elara as they step across the stone threshold into an immense enchanted Gothic lecture hall constructed from moss-veined black basalt.
+2.0s–4.5s: The camera glides forward between rows of weathered wooden school desks floating weightlessly in mid-air at varying elevations between two and ten feet above the flagstone floor, bobbing with subtle harmonic buoyancy. On the distant wall, an antique slate chalkboard displays intricate celestial star constellations rotating slowly in real-time golden chalk lines.
+4.5s–6.5s: Thin, razor-sharp mathematical vectors and calculus equations made of spun molten gold drift calmly through the room like three-dimensional clockwork geometry. Lucien and Elara walk forward side-by-side, heads tilted upward in quiet awe, observing the physics defying gravity.
+6.5s–8.5s: They halt before an ancient carved dark-wood master desk. Hovering three feet above the wood is a miniature, four-foot-wide glowing solar system with spinning planet spheres and glowing elliptical orbital rings. Beside it, an intricate hovering three-dimensional golden geometric equation folds inward upon itself with crisp origami precision, expanding into a rectangular portal doorway of soft golden light.
+8.5s–10.0s: Tight medium close-up on Elara as she cautiously extends her right hand toward the hovering doorway of light. As her fingertips come within two inches of the threshold, the golden light bends gently toward her fingers, responding to her presence with fluid electromagnetic ripples. Elara's face expresses deep, quiet wonder. Lucien stands half a pace behind her shoulder, watching the doorway with guarded intensity.
+
+[TRANSITION & CONTINUITY ANCHOR]
+End frame holds tight on Elara's fingertips brushing the luminous golden equation doorway, establishing the direct portal into the Library in Clip 4.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no wand shooting, no neon sparkles, no chaotic debris, no plastic 3D CGI sheen, no face morphing, no generated text.
 ```
 
 ---
 
-### 🎬 CLIP 4 of 6: The Living Painting & The Library Between Worlds
-* **Duration:** `10.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:04`: Stepping through the glowing doorway, they enter a colossal multi-tiered Gothic library. Thousands of leather-bound books orbit a massive spiral stone staircase in smooth zero-gravity rings. A giant rose window reveals a purple spiral galaxy.
-  * `0:04–0:07`: Along the stone balustrade, they pass an ancient living architectural painting on the wall where hand-drawn ink figures and architectural lines visibly move and shift.
-  * `0:07–0:10`: On a carved stone pedestal, an ancient leather tome opens itself. Lucien and Elara lean over it. On the aged vellum page is an illustration of the academy marked with the exact geometric golden fracture symbol from their classroom desk. Lucien points to it; wonder turns to mystery.
-* **Anchor Reference to Upload:** Last frame of Clip 3 (stepping through equation door) + Library Concept Reference (`assets/references/library.png`).
+### 🎬 CLIP 4 of 6: The Living Architectural Wall & The Library Between Worlds
+* **Duration:** `10.0 seconds exact` (0:30.0 – 0:40.0)
+* **Word Count:** ~390 words
+* **Narrative Arc:** Stepping through equation doorway onto high stone balcony → infinite multi-tiered library with orbiting books & galaxy rose window → passing living architectural wall drawing → ancient tome opens on lectern displaying fracture symbol.
+* **Input Reference to Attach:** Final frame of Clip 3 (stepping through doorway of light) + `assets/references/library.png`.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters: Same LUCIEN and same ELARA in identical charcoal coats with dark-teal lining. Identical faces, hair, and clothing. Hands are separate.
-Environment: Monumental infinite Gothic library, spiral stone staircases, floating brass book platforms, deep violet-indigo galaxy outside the rose window, warm candlelight.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no flying broomsticks, no modern books, no digital computer screens, no text errors, no morphing faces.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Hyper-realistic cinematic live-action, 50mm portrait lens aesthetic with deep vertical focus falloff. Staggering architectural scale: multi-tiered Gothic library balconies extending infinitely into vaulted heights. Environmental lighting blends rich midnight-indigo and violet starlight pouring through an immense stained-glass rose window with the warm amber glow of brass lanterns illuminating weathered oak bookshelves and gold-leaf book spines.
 
-[SCENE INSTRUCTIONS - EXACT 10-SECOND SEQUENCE]
-Second 0-4: Lucien and Elara step onto a high stone walkway inside a monumental Gothic library extending endlessly upward. Thousands of antique leather-bound books float and orbit in smooth concentric paths around a central spiral stone staircase. Through an immense circular rose window, a deep purple and indigo spiral galaxy rotates slowly in deep space.
-Second 4-7: As they walk along the stone balcony, they pass an ancient framed architectural drawing on the stone wall. The hand-drawn black-and-gold ink lines on the parchment are living and moving—a sketch of an ancient academy tower that redraws itself before their eyes.
-Second 7-10: On a carved stone lectern ahead, a heavy leather tome opens itself with fluttering parchment pages. Lucien steps forward and leans over the open book. On the aged page is a detailed architectural diagram of the school, stamped with the exact geometric molten-gold fracture symbol from their classroom. Lucien points to it; Elara looks at him with sharp, serious realization.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Identical charcoal wool coats with dark-teal lining. Costumes completely intact. Hands remain separate, exploring with natural spatial awareness.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Slow pedestal rise capturing the vertical scale of the library and floating books (0-4s). Lateral slider shot tracking past the living wall drawing (4-7s). Smooth push-in to macro close-up on the opening book page and Lucien's pointing hand, tilting up to their serious faces (7-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.0s: The camera pushes smoothly through the golden veil of the equation doorway, emerging onto a high stone balustrade walkway overlooking a monumental library that rises hundreds of feet into ribbed stone vaults.
+2.0s–4.5s: A slow, majestic upward pedestal camera tilt reveals the vertical grandeur: thousands of antique leather-bound tomes float and orbit in smooth, concentric zero-gravity rings around a massive central spiral stone staircase. In the far wall, a colossal circular rose window reveals a breathtaking deep-purple and violet spiral galaxy rotating slowly in outer space instead of an ordinary sky.
+4.5s–6.5s: Lucien and Elara advance along the carved stone balustrade. The camera slides laterally beside them, tracking past an ancient framed architectural drawing mounted on the basalt wall. Drawn in black charcoal and metallic gold ink is an intricate Da Vinci-style illustration of an ancient tower whose inked stone blocks and sketched spires are living—visibly shifting, breathing, and redrawing their own lines across the heavy vellum parchment.
+6.5s–8.5s: Ahead on a carved dark-stone lectern, a heavy leather-bound tome opens itself without human touch, its aged parchment pages fluttering rapidly and settling with a crisp, fibrous snap.
+8.5s–10.0s: The camera glides into an extreme macro close-up on the open page. Lucien steps up to the lectern, placing his hand on the dark stone. On the yellowed vellum page is an ink diagram of the academy, stamped with an intricate geometric fracture symbol glowing with faint molten gold—the exact identical kintsugi geometry that opened under their classroom desk. Lucien points his finger toward the symbol; camera tilts up to catch his and Elara's serious, realization-struck eyes.
+
+[TRANSITION & CONTINUITY ANCHOR]
+End frame locks onto Lucien and Elara's focused expressions as they look toward the hallway indicated by the ancient tome, setting up the Forbidden Corridor in Clip 5.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no flying broomsticks, no modern digital screens, no plastic materials, no extra fingers, no camera roll, no generated text.
 ```
 
 ---
 
-### 🎬 CLIP 5 of 6: The Forbidden Corridor & The Chamber of the Sphere
-* **Duration:** `10.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:05`: Following the direction indicated by the symbol, they walk into a long, shadowed Gothic corridor lined with framed portraits draped in black shroud cloth. As they walk, the wall lanterns extinguish sequentially into darkness behind them.
-  * `0:05–0:07`: At the end of the hall, a colossal 20-foot double door of blackened iron—etched with the glowing golden fracture symbol—slowly parts inward with a deep hydraulic groan.
-  * `0:07–0:10`: They step across the threshold into a vast subterranean circular chamber of black basalt pillars. Suspended at the center is a 20-foot sphere of pitch-black glass that reflects nothing, surrounded by concentric rotating bronze mechanical rings.
-* **Anchor Reference to Upload:** Last frame of Clip 4 (Lucien looking up from ancient book) + Forbidden Corridor & Chamber References (`assets/references/corridor.png`, `assets/references/chamber.png`).
+### 🎬 CLIP 5 of 6: The Forbidden Shrouded Corridor & The Chamber Threshold
+* **Duration:** `10.0 seconds exact` (0:40.0 – 0:50.0)
+* **Word Count:** ~385 words
+* **Narrative Arc:** Walking down dark stone corridor → portraits draped in black shroud cloth → wall lanterns extinguish sequentially behind them → 20-foot sealed iron door etched with symbol parts open → gliding into circular chamber with suspended black sphere and rotating bronze rings.
+* **Input Reference to Attach:** Final frame of Clip 4 + `assets/references/corridor.png` + `assets/references/chamber.png`.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters: Same LUCIEN and same ELARA in identical charcoal school coats. Identical faces, hairstyles, and costumes. Hands remain separate, walking alertly.
-Environment: Dark Gothic stone hallway, framed portraits draped in black cloth, cold teal shadows, transitioning into a monumental circular subterranean vault with black basalt pillars and flooded mirror-black floor.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no monsters jumping out, no gore, no modern technology, no camera shake, no generated text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic suspense, David Fincher / Denis Villeneuve lighting precision. Oppressive chiaroscuro contrast: narrow pool of cold teal lantern light shrinking as darkness advances from behind. True material physics: heavy black velvet mourning cloths over portrait frames, pitted volcanic basalt stonework, cold atmospheric condensation, and massive industrial hydraulic weight on iron doors.
 
-[SCENE INSTRUCTIONS - EXACT 10-SECOND SEQUENCE]
-Second 0-5: Camera tracks backward in front of Lucien and Elara as they walk cautiously down a narrow Gothic stone hallway. The walls are lined with tall framed portraits, every single one covered in dark black shroud cloth. As the characters advance, the brass wall lanterns click off into darkness one after another right behind them, creating a creeping wave of shadow.
-Second 5-7: They arrive at a dead end before a monumental 20-foot blackened-iron door etched with an intricate geometric fracture symbol glowing with faint molten gold. The heavy double iron doors groan and part inward by themselves, spilling cold air and deep shadow into the hall.
-Second 7-10: Symmetrical one-point perspective shot gliding forward through the parting doors into a vast circular subterranean chamber. Black basalt pillars surround a flooded mirror-black stone floor. Floating at the exact center is a 20-foot flawless sphere of pitch-black glass that absorbs all light and reflects nothing, surrounded by slowly rotating aged-bronze gyroscopic rings. Lucien and Elara stand small in the doorway in awe.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats, dark-teal lining, dark hair, scuffed leather notebook in Lucien's grip. Characters move cautiously, side-by-side, bodies tense, hands strictly separate.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Tracking backward ahead of the characters down the dark corridor (0-5s). Push-in toward the parting blackened iron door (5-7s). Smooth, symmetrical gliding shot passing through the doorway and entering the circular chamber, holding the black sphere centered (7-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–3.0s: The camera executes a low-angle backward tracking dolly shot ahead of Lucien and Elara as they walk cautiously down an ominous, narrow Gothic stone corridor. The stone walls are lined on both sides with tall, framed ancestral portraits—every single painting completely veiled in heavy, floor-length black shroud cloth that sways subtly in a cold subterranean draft.
+3.0s–5.5s: As the characters advance forward, the aged bronze wall lanterns mounted along the stone click off into pitch blackness one after another in a sequential wave directly behind them, eating away the corridor light until only a single dim pool illuminates their faces.
+5.5s–7.5s: Lucien and Elara come to a dead halt before a monumental 20-foot blackened-iron vault door at the corridor's terminus. Etched deeply across the heavy iron is the exact geometric fracture symbol, glowing with a narrow hairline seam of molten gold down its center. A deep, subterranean hydraulic clank echoes from deep within the stone.
+7.5s–10.0s: The colossal twin iron vault doors slowly groan open inward, revealing an immense subterranean rotunda carved from raw volcanic basalt. The camera executes a smooth, symmetrical one-point perspective glide through the parting doors across a flooded stone floor reflecting ink-black water. Suspended at the geometric center hangs a 20-foot sphere of flawless, light-absorbing black glass that reflects nothing, ringed by concentric aged-bronze mechanical gyroscopic rings rotating with heavy gear teeth. Lucien and Elara stand small in the entryway in stunned awe.
+
+[TRANSITION & CONTINUITY ANCHOR]
+Smooth symmetrical glide into the circular chamber, holding the centered 20-foot black-glass sphere and rotating bronze rings as the spatial anchor for Clip 6.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no jump-scare monsters, no blood, no modern tech, no plastic textures, no camera shake, no generated text.
 ```
 
 ---
 
-### 🎬 CLIP 6 of 6: The Choice, The Awakening & The Eye
-* **Duration:** `8.0 seconds`
-* **Scene Timeline:**
-  * `0:00–0:03`: In the dark chamber, Elara reaches her hand toward Lucien and hesitates. Lucien looks from her hand to her face, makes a deliberate decision, and firmly takes her hand. As their palms join, their golden marks connect into a glowing continuous symbol. The sphere's fissures flare amber.
-  * `0:03–0:05`: Golden lines race outward across the chamber walls and through the academy. Exterior wide: the central dome stops rotating; every window turns black one by one.
-  * `0:05–0:07`: Back inside the dark chamber, behind the black sphere, a colossal golden eye slowly opens in the darkness, reflecting the two silhouettes of Lucien and Elara holding hands.
-  * `0:07–0:08`: SMASH CUT TO BLACK. A hair-thin molten-gold fissure cracks across the black screen and draws the title: **THE UNWRITTEN**.
-* **Anchor Reference to Upload:** Last frame of Clip 5 (looking at the black sphere) + Hand Mark Reference (`assets/references/hand_mark.png`) + Golden Eye Reference.
+### 🎬 CLIP 6 of 6: The Deliberate Choice, The Awakening & The Golden Eye
+* **Duration:** `8.0 seconds exact` (0:50.0 – 0:58.0)
+* **Word Count:** ~390 words
+* **Narrative Arc:** Intimate two-shot: Elara hesitates → Lucien deliberately takes her hand → marks connect into interwoven circuit → sphere flares → exterior dome stops, windows go black → colossal golden eye opens in void behind sphere reflecting them → smash cut to title.
+* **Input Reference to Attach:** Final frame of Clip 5 (looking at black sphere) + `assets/references/hand_mark.png` + Golden Eye Reference.
 
 #### Prompt to Paste:
 ```text
-[PERMANENT RULES - DO NOT VIOLATE]
-Format: Vertical 9:16 composition. 24 FPS. Live-action cinematic photorealism.
-Characters: Same LUCIEN and same ELARA in charcoal coats. Identical faces, hairstyles, and costumes.
-Climax: Emotional resolution through deliberate choice. Golden marks on palms connect into one continuous loop.
-STRICT NEGATIVE CONSTRAINTS: No cartoon, no anime, no full CGI monster body, no sudden romantic kiss, no explosions, no extra fingers, no morphing faces.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Feature-film cinematic climax, Master-level live-action photorealism. Exceptional optical and emotional restraint: micro-acting, intimate skin textures, authentic subsurface blood scattering under skin, liquid molten gold fluid dynamics with natural specular highlights, transitioning to cold cosmic scale and final ominous creature revelation.
 
-[SCENE INSTRUCTIONS - EXACT 8-SECOND SEQUENCE]
-Second 0-3: Close two-shot in the dark chamber. Elara reaches her marked hand toward Lucien, her fingers hovering in hesitation. Lucien looks at her hand, looks at her eyes with calm determination, and deliberately takes her hand. Their palms press together; the thin molten-gold lines on their palms connect into a glowing continuous interwoven loop. The black sphere behind them flares with brilliant amber fissures.
-Second 3-5: Rapid cinematic montage: molten-gold veins surge across the black stone floor. Exterior wide cut: the monumental Gothic academy floating above clouds as its rotating bronze dome grinds to a dead stop, and all window lights extinguish into pitch black one after another.
-Second 5-7: Back inside the chamber, looking past the dark silhouettes of Lucien and Elara with joined glowing hands. In the pitch-black void behind the suspended sphere, an enormous, ancient golden eye with a vertical reptilian iris slowly opens, reflecting the two tiny silhouettes in its wet cornea. Ominous, intelligent, Denis Villeneuve cinematic lighting.
-Second 7-8: Instant smash cut to black. In the center of the dark frame, a hair-thin crack of molten gold fractures open and draws the serif typography: THE UNWRITTEN.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA in identical charcoal school coats. Identical facial features, hair, and clothing.
 
-[CAMERA & MOVEMENT INSTRUCTIONS]
-Close-up on hands connecting, tilting up to their faces (0-3s). Rapid dynamic wide pull-back of academy dome stopping (3-5s). Slow push-in toward the darkness behind the sphere as the colossal golden eye opens (5-7s). Hard cut to black graphic title frame (7-8s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.0s: Intimate medium two-shot in the dark basalt chamber. Elara turns toward Lucien; her hand lifts slightly toward him, her fingers hovering in hesitation and fear. A thin molten-gold line glows softly across her palm. Lucien looks down at her trembling hand, then looks directly into her eyes with calm, unwavering resolve.
+2.0s–3.5s: Tight cinematic macro close-up on their hands. Lucien makes a deliberate, conscious choice: his fingers reach out and firmly, gently take Elara's hand. As their palms press together, the thin molten-gold lines on both of their palms connect seamlessly into a single continuous, glowing interwoven geometric loop with zero seam.
+3.5s–5.0s: The 20-foot black-glass sphere behind them flares with brilliant amber-gold kintsugi fissures. Molten gold energy surges outward across the flooded basalt floor. Quick dynamic cut to exterior wide establishing shot: the floating Gothic academy above rolling clouds as its massive rotating bronze astrolabe dome shudders and grinds to a dead stop, and all tall window lights extinguish into pitch darkness one after another.
+5.0s–7.0s: Cut back inside the dark chamber, framing from behind Lucien and Elara standing small in foreground silhouette with joined glowing hands. In the pitch-black void behind the suspended sphere, a colossal ancient golden eye with a vertical reptilian iris slowly and smoothly opens. The wet cornea of the colossal eye catches the room's amber light, clearly reflecting the tiny silhouettes of the two teenagers standing below. The eye dilates with terrifying, ancient intelligence.
+7.0s–8.0s: SMASH CUT TO ABSOLUTE BLACK. Across the pitch-black vertical frame, a hair-thin fissure of molten gold cracks down the center and cleanly etches the chiseled dark-stone serif typography: THE UNWRITTEN.
+
+[TRANSITION & CONTINUITY ANCHOR]
+Final frame is the locked high-contrast title card, ready for the post-production sound impact and trailing pencil roll.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no full CGI monster body reveal, no sudden romantic kiss, no explosions, no extra fingers, no morphing faces, no generated subtitles.
 ```
 
 ---
@@ -451,11 +442,15 @@ Close-up on hands connecting, tilting up to their faces (0-3s). Rapid dynamic wi
 ## 🛠️ POST-PRODUCTION ASSEMBLY INSTRUCTIONS (DaVinci Resolve / FFmpeg)
 
 Once you download your 6 generated MP4 files (`clip1.mp4` through `clip6.mp4`):
-1. **Import Clips into Timeline:** Arrange on Track V1 in order: `Clip 1` (10s) + `Clip 2` (10s) + `Clip 3` (10s) + `Clip 4` (10s) + `Clip 5` (10s) + `Clip 6` (8s) = **58.0 Seconds**.
-2. **Audio Track `A1` (Ambience):** Add classroom room tone, school bell at 0:04, rushing wind during fall, quiet library whisper, and subterranean drone.
-3. **Audio Tracks `A2` & `A3` (Dialogue):** Place the 7 locked dialogue lines from [`plans/short/DIALOGUE.md`](../../plans/short/DIALOGUE.md) under the exact visual mouth actions.
-4. **Audio Track `A4` (SFX):** Add pencil dead-stop, crystalline kintsugi crack, hydraulic iron door groan, bronze ring deceleration, 20Hz eye sub-bass drop, and final BRAAAM impact at 0:57.
-5. **Audio Track `A5` (Score):** Lay the master hybrid orchestral score (solo cello into choir/brass into sudden silence at 0:55).
+1. **Import Clips into Timeline:** Arrange on Track V1 in order: `Clip 1` (10.0s) + `Clip 2` (10.0s) + `Clip 3` (10.0s) + `Clip 4` (10.0s) + `Clip 5` (10.0s) + `Clip 6` (8.0s) = **58.0 Seconds Exact**.
+2. **Audio Track `A1` (Ambience):** Add classroom room tone, school bell at 0:03.5, rushing wind during fall (0:11–0:15), quiet library whisper, and subterranean drone.
+3. **Audio Tracks `A2` & `A3` (Dialogue):** Place the locked dialogue lines from [`plans/short/DIALOGUE.md`](../../plans/short/DIALOGUE.md) under the exact visual mouth actions:
+   - At 0:06.0: *"You're not even going to pretend you were studying?"* / *"I was trying to."*
+   - At 0:17.0: *"Where are we?"* / *"I wish I knew."*
+   - At 0:44.0: *"Something's in there."* / *"Then why does it feel like it's waiting for us?"*
+   - At 0:51.5: *"Whatever that thing is… we face it together."*
+4. **Audio Track `A4` (SFX):** Add pencil dead-stop, crystalline kintsugi crack, hydraulic iron door groan, bronze ring deceleration, 20Hz eye sub-bass drop, and final BRAAAM impact at 0:57.0.
+5. **Audio Track `A5` (Score):** Lay the master hybrid orchestral score (solo cello into choir/brass into sudden silence at 0:55.0).
 6. **Export with FFmpeg:**
    ```powershell
    ffmpeg -i resolve_master_58s.mov -c:v libx264 -profile:v high -pix_fmt yuv420p -crf 20 -preset slow -c:a aac -b:a 192k -movflags +faststart films/competition-cut/THE_UNWRITTEN_58s.mp4
@@ -471,26 +466,27 @@ Once you download your 6 generated MP4 files (`clip1.mp4` through `clip6.mp4`):
 
 ### [Source File: prompts/short/MASTER_90S_CLIPS.md]
 
-# 🎬 90-SECOND MASTER SHORT FILM — 9-CLIP GENERATION PIPELINE
-## Engineered for Gemini Omni 1.1 Flash / Veo (10-Second Generation Limit)
+# 🎬 90-SECOND MASTER SHORT FILM — 9-CLIP ULTRA-REALISTIC GENERATION PIPELINE
+## Engineered for Gemini Omni 1.1 Flash / Veo (10-Second Generation Limit, 0.5s Micro-Choreography)
 
 > [!IMPORTANT]
 > **Pipeline Overview:**
-> - **Total Runtime:** 90.0 Seconds (1:30 max)
+> - **Total Runtime:** 90.0 Seconds Exact (1:30 max)
 > - **Total Clips:** 9 Clips × 10.0 Seconds each
 > - **Structure:** 40% Fantasy School Exploration (Clips 3–6) / 60% Dramatic Arc (Clips 1–2, 7–9)
-> - **Format:** Vertical 9:16 (1080 × 1920), 24 FPS, Thinking: High
+> - **Format:** Vertical 9:16 (1080 × 1920), 24 FPS, Thinking: High, ARRI Alexa LF 35mm Anamorphic Optics
+> - **Choreography Standard:** Every single prompt is timed in precise **0.5-second continuous intervals** with zero harsh cuts, and exceeds **250 words per prompt**.
 
 ---
 
-## 📋 9-CLIP OVERVIEW (10 SECONDS EACH)
+## 📋 9-CLIP TIMELINE & STORY BEATS
 
 | Clip # | Time | Story Beat | Primary Location |
 |---|---|---|---|
-| **Clip 01** | `0:00–0:10` | Classroom fade-in, afternoon sun, bell rings, students depart | Ordinary Classroom |
-| **Clip 02** | `0:10–0:20` | Lucien & Elara tease, pencil stops dead, golden fissure opens, floor fractures | Classroom → Fracture |
+| **Clip 01** | `0:00–0:10` | Classroom fade-in, afternoon sunbeams, bell rings, students depart | Ordinary Classroom |
+| **Clip 02** | `0:10–0:20` | Lucien & Elara tease, pencil stops dead, golden fissure opens, floor fractures | Classroom → Void |
 | **Clip 03** | `0:20–0:30` | Fall through surreal worlds, wrist catch, landing on causeway | Surreal Sky → Causeway |
-| **Clip 04** | `0:30–0:40` | Monumental Gothic academy crane reveal, central doors open | Academy Exterior |
+| **Clip 04** | `0:30–0:40` | Monumental Gothic academy crane reveal, central doors part open | Academy Exterior |
 | **Clip 05** | `0:40–0:50` | Enchanted classroom: floating desks, constellations, equation doorway | Enchanted Classroom |
 | **Clip 06** | `0:50–1:00` | Infinite library: orbiting books, galaxy rose window, book reveals symbol | Library Between Worlds |
 | **Clip 07** | `1:00–1:10` | Shrouded corridor, lanterns extinguish, sealed iron door parts open | Forbidden Corridor |
@@ -499,148 +495,216 @@ Once you download your 6 generated MP4 files (`clip1.mp4` through `clip6.mp4`):
 
 ---
 
-# 🚀 THE 9 PRODUCTION PROMPTS (10 SECONDS EACH)
+# 🚀 THE 9 ULTRA-REALISTIC PRODUCTION PROMPTS (MINIMUM 250+ WORDS EACH)
 
-### Clip 01: The Classroom & The Bell (0:00–0:10)
+---
+
+### Clip 01: The Classroom & The Bell (0:00.0–0:10.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action cinematic photorealism.
-LUCIEN: 16, dark tousled hair, charcoal coat with dark-teal lining, leather notebook.
-ELARA: 16, natural understated look, charcoal coat with dark-teal scarf lining, pencil behind ear.
-Setting: Believable high school classroom in warm late-afternoon sunlight, dust motes in sunbeams.
-NEGATIVES: No cartoon, no anime, no 3D look, no glowing runes, no camera shake, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 aspect ratio (1080x1920), 24 FPS. Live-action 35mm anamorphic film capture, ARRI Alexa LF aesthetic. True optical physics: shallow depth of field, natural anamorphic lens breathing, subtle film grain, physically accurate inverse-square lighting falloff. Atmosphere features warm 3200K late-afternoon sunlight cutting through tall, rain-streaked windowpanes, illuminating authentic suspended dust motes drifting with realistic air currents.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-5: Fade in from black. Camera begins high at the back of the classroom looking down, smoothly sweeping downward to eye level with a slight zoom out. Students are finishing writing at wooden desks. Lucien and Elara sit calmly together at a desk in mid-room.
-Second 5-10: The classroom bell rings. Students stand, pack backpacks, push chairs back, and file out through the classroom door over five seconds. Lucien and Elara stay seated at their desk, watching. By second 10, the room is nearly empty.
+[CHARACTER & COSTUME CONTINUITY]
+- LUCIEN: 16-year-old teenage boy, tall and lean, dark tousled hair with natural hair strands catching rim light, thoughtful observant dark eyes, authentic subsurface skin scattering. Tailored charcoal wool school coat with dark-teal inner lining and minimal matte aged-bronze fasteners over a dark uniform. Resting an old dark leather notebook on the wooden desk.
+- ELARA: 16-year-old teenage girl, natural understated appearance, intelligent observant dark eyes. Tailored charcoal wool coat with a visible dark-teal folded scarf lining. Small hexagonal wooden pencil tucked behind her ear.
+- Direction B: Understated comfort between two students who feel an unexplained magnetic connection but are not romantically established. Hands remain separate on the desk.
 
-[CAMERA]
-High angle at back of room sweeping down to straight-on eye-level view during 0-5s. Hold steady wide shot during departure (5-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–1.5s: Fade in smoothly from absolute black. The camera begins at an elevated high-angle position at the rear corner of a realistic high school classroom, pointing diagonally downward across wooden desks toward students quietly finishing their work in warm golden sunlight.
+1.5s–4.0s: A slow, continuous mechanical jib arm lowers the camera smoothly downward from the high angle toward eye-level while executing a very subtle optical zoom out to expand spatial depth. Students make subtle natural writing movements. Lucien and Elara sit calmly together at their established desk in mid-room.
+4.0s–7.0s: The classroom bell rings in the distance. The other students stand, pack backpacks, push wooden chairs back against linoleum flooring, and file out through the classroom door. Lucien and Elara stay seated at their desk, watching. Hands rest on the desk, not touching.
+7.0s–10.0s: The room empties completely into quiet dusk stillness. Lucien and Elara remain in their established positions as the late-afternoon sun cools into twilight slate-blue.
+
+[CAMERA & TRANSITION]
+Smooth jib descent from elevated angle down to eye level (0-4s). Steady locked wide framing capturing student departure (4-10s). Clean end-frame on Lucien and Elara seated alone in the empty classroom.
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no 3D CGI look, no neon purple/blue light, no floating gadgets, no invented characters, no camera shake, no morphing faces, no generated dialogue or text.
 ```
 
-### Clip 02: The Strange Connection & The Fracture (0:10–0:20)
+---
+
+### Clip 02: The Strange Connection & The Fracture (0:10.0–0:20.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA. Hands are separate.
-NEGATIVES: No cartoon, no morphing faces, no flying objects, no explosions, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 aspect ratio (1080x1920), 24 FPS. Live-action 35mm optical capture. Transitioning from warm interior room tone to localized violations of physics. Physically accurate momentum and friction on wood surfaces, leading into liquid molten gold kintsugi fissures with 2700K specular highlights and high-contrast shadow falloff.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-4: Medium two-shot in the empty dusk classroom. Lucien closes his leather notebook; Elara smiles warmly at his unfinished page. Natural, understated friendly chemistry.
-Second 4-7: A hexagonal wooden pencil rolls across the desk, reaches the bevelled edge, and locks dead in mid-air without falling. Camera tilts down to the dark shadow beneath the desk.
-Second 7-10: A hair-thin crack of glowing molten gold splits the floor shadow beneath the desk like kintsugi, casting an amber rim light on their shoes. The crack suddenly fractures the floor into angular geometric seams as the classroom floor drops away into a dark void.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal school coats, dark-teal lining, dark hair. Hands remain separate on the desk surface.
 
-[CAMERA]
-Medium two-shot pushing slowly in (0-4s). Tilt down following pencil to floor shadow (4-7s). High angle looking down into the widening golden fracture (7-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.5s: The camera glides forward from wide framing into a steady medium two-shot. Lucien calmly closes his worn leather notebook; Elara glances sideways at his unfinished page and smiles with subtle, gentle teasing amusement. Lucien responds with a small, self-conscious half-smile.
+2.5s–5.0s: Natural eye contact between them. Elara begins to reach for her bag strap as the ambient room tone drops. The warm sunlight through the window dims subtly as a deep 30Hz sub-bass pressure drops into the room.
+5.0s–7.5s: The camera executes an organic rack focus down to the scarred wooden desk surface. A hexagonal wooden graphite pencil rolls naturally across the wood grain, reaches the beveled edge, and instantly locks completely dead in mid-air—defying physical momentum without bouncing or falling.
+7.5s–10.0s: The camera tilts smoothly downward toward the floor. In the pitch-black shadow cast beneath their desk, a microscopic hairline fracture of intense, glowing molten gold scores across the linoleum like living kintsugi lightning. The golden fissures spiderweb outward rapidly across the floor, fracturing the linoleum along structural geometric seams as the floor begins to give way into an infinite dark abyss.
+
+[CAMERA & TRANSITION]
+Medium two-shot push-in (0-2.5s). Hold on characters (2.5-5.0s). Rack-focus down to rolling pencil (5.0-7.5s). Smooth tilt down to floor shadow as golden fissures fracture the room (7.5-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no plastic skin, no explosions, no wand sparks, no extra fingers, no camera roll, no generated text.
 ```
 
-### Clip 03: The Surreal Fall & Causeway Landing (0:20–0:30)
+---
+
+### Clip 03: The Surreal Fall & Causeway Landing (0:20.0–0:30.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Cinematic photorealism. Same LUCIEN and ELARA.
-NEGATIVES: No cartoon, no plastic skin, no extra limbs, no camera spin, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Feature-film visual effects, Christopher Nolan scale and weight. Transitioning from intimate classroom shadows into high-altitude cold slate-teal environmental light (6500K). Volumetric cloud layers, authentic aerodynamic wind resistance on wool coats, real basalt stone wetness reflections, and monumental architectural parallax.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-5: Lucien and Elara fall in free fall side-by-side through a surreal sky, passing an upside-down pine forest floating above, drifting stone arches, and an ocean suspended in the air. Clothes flutter naturally in high wind.
-Second 5-7: Close-up in free fall: their hands reach out across the void; Lucien firmly catches Elara's wrist, and she grips his hand back. Five fingers per hand.
-Second 7-10: They land with solid physical weight on a wet black-basalt stone causeway above an endless ocean of rolling teal clouds. Lucien steadies Elara; they immediately release hands and stand side-by-side, breathing hard, looking forward in disbelief.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats with dark-teal lining. Costumes completely intact, natural aerodynamic drag.
 
-[CAMERA]
-Wide vertical tracking shot following the fall (0-5s). Tight macro on hands connecting (5-7s). Low angle settling on black basalt causeway (7-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.5s: Starting directly from the fracturing floor, Lucien and Elara fall in free fall side-by-side through impossible vertical space. The camera tracks downward alongside them at high velocity. In the surreal sky outside the void, an upside-down evergreen pine forest floats suspended overhead, with detached monumental Gothic stone arches drifting in dark mist.
+2.5s–5.0s: They fall past an immense ocean of clear blue water floating weightlessly in the clouds. Their coats and hair whip violently with authentic aerodynamic turbulence as they reach toward each other across the gap.
+5.0s–7.0s: Tight macro tracking shot on their hands in mid-air. In free fall, their fingers slip apart across the turbulent air; Lucien lunges forward and catches Elara firmly by the wrist; her fingers instantly grip his forearm back to maintain contact. Five fingers per hand, natural skin compression under grip pressure.
+7.0s–10.0s: The falling motion decelerates with heavy physical inertia as both characters land with solid, damp impact on a vast causeway of weathered black volcanic basalt stone suspended thousands of feet above an endless sea of rolling teal clouds. Lucien steadies Elara; both instantly let go of each other's hands, standing upright a body-width apart, breathing hard as they look forward in disbelief. Hands hang loosely at their sides.
+
+[CAMERA & TRANSITION]
+Down tracking shot alongside fall (0-5.0s). Close macro on hand and wrist catch (5.0-7.0s). Low angle settling on black basalt causeway (7.0-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no plastic rendering, no superhero landings, no floating magic rings around characters, no extra fingers, no camera rolling, no generated text.
 ```
 
-### Clip 04: The Fantasy School Reveal (0:30–0:40)
+---
+
+### Clip 04: The Fantasy School Reveal (0:30.0–0:40.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Cinematic photorealism. Same LUCIEN and ELARA. Hands at sides, not holding hands.
-NEGATIVES: No cartoon, no flying creatures, no modern buildings, no camera shake, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic photorealism, Panavision 35mm anamorphic optics. Monumental environmental grandeur: cold slate-blue twilight sky, rolling volumetric teal clouds below, weathered black basalt architecture with aged bronze mechanisms, and warm 2700K golden lantern light spilling from tall Gothic windows.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-6: Slow, majestic crane pedestal rise from behind Lucien and Elara standing on the causeway, revealing the colossal Gothic academy floating above rolling teal clouds. Towering black-stone spires rise into mist, floating bridges link mountain cliffs, moving staircases reposition in mid-air, tall classroom windows glow with teal light, and a vast central bronze astrolabe dome rotates slowly.
-Second 6-10: Camera gently glides forward over their shoulders toward the monumental grand entrance. The colossal 30-foot arched central doors slowly groan open by themselves, revealing warm golden light spilling out onto the stone causeway.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal school coats with dark-teal lining. Standing side-by-side on the basalt causeway, hands completely separate at their sides.
 
-[CAMERA]
-Slow pedestal crane rise from ground level behind characters to extreme wide establishing vertical shot (0-6s). Slow forward dolly toward the parting central entrance doors (6-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–3.0s: The camera begins a slow, breathtaking crane pedestal rise upward from ground level behind Lucien and Elara's shoulders, elevating into a high-angle extreme wide vertical establishing shot.
+3.0s–6.5s: The full monumental scale of the Academy is revealed: their ordinary school has transformed into an immense Gothic citadel floating above the clouds. Towering weathered black basalt spires reach into upper cloud layers, slender stone aqueducts span bottomless chasms, massive staircases reposition themselves in mid-air, and a colossal 2,000-foot rotating bronze astrolabe dome turns slowly in the distance.
+6.5s–8.5s: The camera glides forward over Lucien and Elara's shoulders toward the monumental grand entrance. Familiar classroom windows across the towers glow with rich teal stained-glass light.
+8.5s–10.0s: The central 40-foot arched bronze doors slowly groan open, parting inward by themselves and spilling warm golden light onto the damp basalt causeway before the characters.
+
+[CAMERA & TRANSITION]
+Slow pedestal crane rise from behind characters to extreme wide establishing shot (0-6.5s). Gentle forward dolly over shoulders toward the parting central entrance doors (6.5-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no flying dragons, no modern skyscrapers, no plastic textures, no camera shake, no generated text.
 ```
 
-### Clip 05: The Enchanted Classroom & Equation Door (0:40–0:50)
+---
+
+### Clip 05: The Enchanted Classroom & Equation Doorway (0:40.0–0:50.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA. Hands separate.
-Environment: Ancient Gothic classroom of black stone, tall lancet windows, floating furniture, glowing golden equations.
-NEGATIVES: No cartoon, no wand shooting, no neon fairy wings, no morphing faces, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic photorealism, Panavision 35mm optics. Grounded physical lighting: cold slate-teal daylight cutting diagonally through tall stained-glass lancet windows, illuminating airborne limestone dust motes, contrasted against delicate 2700K spun-gold mathematical equations glowing with volumetric radiance. Furniture exhibits realistic zero-gravity buoyancy and gentle air-resistance drift.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-5: Smooth tracking shot following Lucien and Elara walking cautiously into an enchanted Gothic classroom. Wooden school desks float gently in zero gravity at varying heights. An antique slate blackboard displays glowing golden star constellations rotating in real time. Spun-gold mathematical vectors drift through the air.
-Second 5-8: They approach a carved teacher's desk where a miniature glowing solar system spins with delicate orbital rings. A complex hovering golden equation folds inward like origami into a glowing rectangular doorway.
-Second 8-10: Close-up as Elara reaches her hand toward the folding doorway. The golden light bends and ripples toward her fingers. Her face shows pure wonder. Lucien watches beside her.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats, dark-teal scarf lining, dark tousled hair, scuffed leather notebook in Lucien's hand. Exploring side-by-side, hands strictly separate.
 
-[CAMERA]
-Tracking dolly behind characters entering room (0-5s). Push toward teacher's desk and folding equation (5-8s). Close-up on Elara's hand brushing the light doorway (8-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.5s: Smooth Steadicam forward tracking move behind Lucien and Elara as they step across the stone threshold into an immense enchanted Gothic lecture hall constructed from moss-veined black basalt.
+2.5s–5.5s: The camera glides forward between rows of weathered wooden school desks floating weightlessly in mid-air at varying elevations between two and ten feet above the flagstone floor, bobbing with subtle harmonic buoyancy. On the distant wall, an antique slate chalkboard displays intricate celestial star constellations rotating slowly in real-time golden chalk lines.
+5.5s–7.5s: Thin, razor-sharp mathematical vectors and calculus equations made of spun molten gold drift calmly through the room like three-dimensional clockwork geometry. Lucien and Elara walk forward side-by-side, heads tilted upward in quiet awe, observing the physics defying gravity.
+7.5s–9.0s: They halt before an ancient carved dark-wood master desk. Hovering three feet above the wood is a miniature, four-foot-wide glowing solar system with spinning planet spheres and glowing orbital rings. Beside it, an intricate hovering three-dimensional golden geometric equation folds inward upon itself like golden origami, expanding into a rectangular doorway of soft golden light.
+9.0s–10.0s: Tight medium close-up on Elara as she extends her right hand toward the hovering doorway of light. As her fingertips come within two inches of the threshold, the golden light bends gently toward her fingers, responding to her presence with fluid electromagnetic ripples.
+
+[CAMERA & TRANSITION]
+Steadicam tracking forward (0-5.5s). Push toward teacher's desk and folding equation (5.5-9.0s). Close-up on Elara's hand brushing the light doorway (9.0-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no wand shooting, no neon sparkles, no chaotic debris, no plastic 3D CGI sheen, no face morphing, no generated text.
 ```
 
-### Clip 06: The Infinite Library & The Ancient Book (0:50–1:00)
+---
+
+### Clip 06: The Infinite Library & The Ancient Book (0:50.0–1:00.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA. Hands separate.
-Environment: Monumental infinite Gothic library, spiral stone staircases, floating brass book platforms, deep purple galaxy rose window.
-NEGATIVES: No cartoon, no modern computers, no random magic dust, no text errors.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Hyper-realistic cinematic live-action, 50mm portrait lens aesthetic with deep vertical focus falloff. Multi-tiered Gothic library balconies extending infinitely into vaulted heights. Environmental lighting blends rich midnight-indigo and violet starlight pouring through an immense stained-glass rose window with the warm amber glow of brass lanterns illuminating weathered oak bookshelves.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-5: Stepping through the light, Lucien and Elara enter an infinite Gothic library. Thousands of antique leather books float and orbit in concentric rings around a spiral stone staircase. A giant circular rose window reveals a purple spiral galaxy rotating in deep space.
-Second 5-8: They walk along a stone walkway past towering bookshelves. On a carved stone lectern ahead, an ancient leather tome flutters open by itself to an aged vellum page showing an architectural drawing of the academy.
-Second 8-10: Macro close-up on the book page. A glowing molten-gold geometric fracture symbol glints on the drawing—matching the crack from their classroom desk. Lucien points to it; Elara looks at him with sharp, serious realization.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Identical charcoal wool coats with dark-teal lining. Hands remain separate, exploring with natural spatial awareness.
 
-[CAMERA]
-Rising vertical parallax shot capturing the immense height of the library (0-5s). Lateral tracking shot along balcony (5-8s). Macro push to book page and Lucien's pointing hand (8-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–2.5s: The camera pushes smoothly through the golden veil of the equation doorway, emerging onto a high stone balustrade walkway overlooking a monumental library that rises hundreds of feet into ribbed stone vaults.
+2.5s–5.0s: A slow, majestic upward pedestal camera tilt reveals the vertical grandeur: thousands of antique leather-bound tomes float and orbit in smooth, concentric zero-gravity rings around a massive central spiral stone staircase. In the far wall, a colossal circular rose window reveals a deep-purple and violet spiral galaxy rotating slowly in outer space instead of an ordinary sky.
+5.0s–7.5s: Lucien and Elara advance along the carved stone balustrade. Ahead on a carved dark-stone lectern, a heavy leather-bound tome opens itself without human touch, its aged parchment pages fluttering rapidly and settling with a crisp, fibrous snap.
+7.5s–10.0s: The camera glides into an extreme macro close-up on the open page. Lucien steps up to the lectern, placing his hand on the dark stone. On the yellowed vellum page is an ink diagram of the academy, stamped with an intricate geometric fracture symbol glowing with faint molten gold—the exact identical kintsugi geometry that opened under their classroom desk. Lucien points his finger toward the symbol; camera tilts up to catch his and Elara's serious, realization-struck eyes.
+
+[CAMERA & TRANSITION]
+Smooth entrance through light doorway (0-2.5s). Rising pedestal tilt showing vertical library scale (2.5-5.0s). Push-in to macro on open book and Lucien's pointing hand (5.0-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no flying broomsticks, no modern digital screens, no plastic textures, no extra fingers, no camera roll, no generated text.
 ```
 
-### Clip 07: The Forbidden Corridor & Sealed Iron Door (1:00–1:10)
+---
+
+### Clip 07: The Forbidden Corridor & Sealed Iron Door (1:00.0–1:10.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA. Hands separate.
-Environment: Narrow Gothic stone hallway, portraits draped in black cloth, cold teal shadows.
-NEGATIVES: No cartoon, no monsters, no blood, no modern tech, no camera shake, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic suspense, David Fincher / Denis Villeneuve lighting precision. Oppressive chiaroscuro contrast: narrow pool of cold teal lantern light shrinking as darkness advances from behind. Heavy black velvet mourning cloths over portrait frames, pitted volcanic basalt stonework, and massive industrial hydraulic weight on iron doors.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-5: Camera tracks backward ahead of Lucien and Elara walking cautiously down a narrow Gothic stone hallway. The walls are lined with tall framed portraits, all draped in black shroud cloth. Behind them, wall lanterns click off sequentially into darkness, creating a creeping wave of shadow.
-Second 5-8: They reach a dead end before a massive 20-foot blackened-iron door etched with the geometric fracture symbol glowing with faint molten gold. A deep metallic scrape echoes from within.
-Second 8-10: The heavy iron double doors groan and part inward by themselves. Cold air and deep shadow spill out, revealing a vast subterranean circular chamber within.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats, dark-teal lining, dark hair, scuffed leather notebook in Lucien's grip. Characters move cautiously, side-by-side, bodies tense, hands strictly separate.
 
-[CAMERA]
-Backward tracking shot ahead of characters (0-5s). Push toward the sealed iron door (5-8s). Symmetrical shot through parting doors into darkness (8-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–3.0s: The camera executes a low-angle backward tracking dolly shot ahead of Lucien and Elara as they walk cautiously down an ominous, narrow Gothic stone corridor. The stone walls are lined on both sides with tall, framed ancestral portraits—every single painting completely veiled in heavy, floor-length black shroud cloth that sways subtly in a cold subterranean draft.
+3.0s–5.5s: As the characters advance forward, the aged bronze wall lanterns mounted along the stone click off into pitch blackness one after another in a sequential wave directly behind them, eating away the corridor light until only a single dim pool illuminates their faces.
+5.5s–7.5s: Lucien and Elara come to a dead halt before a monumental 20-foot blackened-iron vault door at the corridor's terminus. Etched deeply across the heavy iron is the exact geometric fracture symbol, glowing with a narrow hairline seam of molten gold down its center. A deep, subterranean hydraulic clank echoes from deep within the stone.
+7.5s–10.0s: The colossal twin iron vault doors slowly groan open inward, revealing an immense subterranean rotunda carved from raw volcanic basalt. The camera executes a smooth, symmetrical one-point perspective glide through the parting doors across a flooded stone floor reflecting ink-black water. Suspended at the geometric center hangs a 20-foot sphere of flawless, light-absorbing black glass that reflects nothing, ringed by concentric aged-bronze mechanical gyroscopic rings rotating with heavy gear teeth. Lucien and Elara stand small in the entryway in stunned awe.
+
+[CAMERA & TRANSITION]
+Backward tracking shot ahead of characters (0-5.5s). Push toward the sealed iron door (5.5-7.5s). Symmetrical glide through parting doors into darkness (7.5-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no jump-scare monsters, no blood, no modern tech, no plastic textures, no camera shake, no generated text.
 ```
 
-### Clip 08: The Sphere & The Marks (1:10–1:20)
+---
+
+### Clip 08: The Sphere & The Marks (1:10.0–1:20.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA.
-Environment: Circular chamber, black basalt pillars, flooded floor, 20-foot light-absorbing black-glass sphere, rotating bronze rings.
-NEGATIVES: No cartoon, no visible monster body, no extra fingers, no text.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action photorealism. Circular chamber, black basalt pillars, flooded floor reflecting zero ambient light. Suspended 20-foot light-absorbing black-glass sphere, rotating bronze rings. Liquid molten gold kintsugi fissures with warm 2700K internal illumination.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-4: Symmetrical shot gliding into the circular chamber. Suspended in the center is a 20-foot pitch-black glass sphere surrounded by slowly rotating bronze gyroscopic rings. Lucien approaches; thin molten-gold fissures glow inside the sphere.
-Second 4-7: Macro close-up: the golden fissures inside the sphere rearrange into the shape of two interlaced hands. Lucien and Elara look at their open palms held side by side: a matching thin molten-gold mark illuminates on each palm. Hands do not touch.
-Second 7-10: Inside the dark sphere, faint golden silhouettes appear of a boy and girl standing together across ancient ruined cities under unfamiliar stars. The light abruptly extinguishes into pitch black. In the void behind the sphere, an enormous curved shape shifts silently.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA. Tailored charcoal coats, dark-teal lining. Hands held open, separate, observing the phenomenon.
 
-[CAMERA]
-Symmetrical glide toward black sphere (0-4s). Macro on sphere fissures and open palms (4-7s). Medium shot on dark sphere as silhouettes appear and extinguish (7-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–3.0s: Symmetrical one-point perspective shot gliding forward into the circular chamber. Suspended in the center is the 20-foot pitch-black glass sphere surrounded by slowly rotating bronze gyroscopic rings. Lucien approaches slowly; thin molten-gold fissures begin to glow softly beneath the sphere's dark surface.
+3.0s–6.0s: Macro close-up on the sphere surface: the golden fissures inside rearrange into the shape of two interlaced hands. Lucien and Elara look down at their open palms held side by side: a matching thin molten-gold line illuminates across the center of each palm. Their hands do not touch.
+6.0s–8.5s: Inside the dark sphere, faint golden silhouettes appear of a boy and girl standing together across ancient ruined cities under unfamiliar stars. Lucien and Elara watch motionless in quiet awe.
+8.5s–10.0s: The golden light abruptly extinguishes into pitch black. In the deep shadow behind the sphere, an immense curved silhouette shifts slowly in the dark void as the bronze rings decelerate to a dead stop.
+
+[CAMERA & TRANSITION]
+Symmetrical glide toward black sphere (0-3.0s). Macro on sphere fissures and open palms (3.0-6.0s). Medium shot on dark sphere as silhouettes appear and extinguish (6.0-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no visible monster body, no extra fingers, no camera shake, no generated text.
 ```
 
-### Clip 09: The Decision, The Golden Eye & Title (1:20–1:30)
+---
+
+### Clip 09: The Decision, The Golden Eye & Title (1:20.0–1:30.0 | 10.0s)
 ```text
-[PERMANENT RULES]
-Vertical 9:16. 24 FPS. Live-action photorealism. Same LUCIEN and ELARA.
-Climax: Emotional resolution through deliberate choice. Golden marks connect into one continuous loop.
-NEGATIVES: No cartoon, no full CGI monster, no kiss, no explosions, no extra fingers, no morphing faces.
+[CORE CINEMATOGRAPHIC & PHYSICAL LOGIC]
+Format: Vertical 9:16 composition (1080x1920), 24 FPS. Live-action cinematic climax, Master-level photorealism. Micro-acting, intimate skin textures, subsurface scattering, liquid molten gold fluid dynamics with natural specular highlights, transitioning to cold cosmic scale and final creature revelation.
 
-[SCENE INSTRUCTIONS (10s)]
-Second 0-4: Close two-shot in the dark chamber. Elara reaches her marked hand toward Lucien, hesitating with fingers hovering. Lucien looks at her hand, looks into her eyes with calm resolve, and deliberately takes her hand. Their palms press together; the golden marks connect into a glowing continuous interwoven loop.
-Second 4-7: Rapid cut: molten-gold energy surges across chamber floor. Exterior wide cut: the floating academy's central dome grinds to a dead halt, and every window goes pitch black one by one.
-Second 7-9: Back inside chamber looking past foreground silhouettes with joined glowing hands: in the pitch-black void behind the sphere, a colossal ancient golden eye with a reptilian iris slowly opens, reflecting the two tiny silhouettes.
-Second 9-10: Smash cut to black. A hair-thin molten-gold fissure cracks across the center of the dark frame and draws the title: THE UNWRITTEN.
+[CHARACTER & COSTUME CONTINUITY]
+Same LUCIEN and same ELARA in charcoal coats. Identical facial features, hair, and clothing.
 
-[CAMERA]
-Close-up on hands connecting, tilting up to faces (0-4s). Rapid exterior wide cut of dome stopping (4-7s). Slow push-in toward opening golden eye (7-9s). Hard cut to black graphic title frame (9-10s).
+[EXACT 0.5-SECOND TIME-CODED CHOREOGRAPHY]
+0.0s–3.0s: Close two-shot in the dark chamber. Elara reaches her marked hand toward Lucien, her fingers hovering in hesitation. Lucien looks at her hand, looks into her eyes with calm, unwavering resolve, and deliberately takes her hand. Their palms press together; the thin molten-gold lines on their palms connect into a glowing continuous interwoven loop.
+3.0s–5.5s: The black sphere behind them flares with brilliant amber fissures. Rapid cut: molten-gold energy surges across the chamber floor. Exterior wide cut: the floating academy's central dome grinds to a dead halt, and every window light extinguishes into pitch black one after another.
+5.5s–8.5s: Back inside the chamber, looking past the dark silhouettes of Lucien and Elara with joined glowing hands. In the pitch-black void behind the suspended sphere, a colossal ancient golden eye with a vertical reptilian iris slowly and smoothly opens. The wet cornea of the colossal eye catches the room's amber light, clearly reflecting the tiny silhouettes of the two teenagers standing below. The eye dilates with terrifying, ancient intelligence.
+8.5s–10.0s: Instant smash cut to black. In the center of the dark frame, a hair-thin crack of molten gold fractures open and draws the serif typography: THE UNWRITTEN.
+
+[CAMERA & TRANSITION]
+Close-up on hands connecting, tilting up to faces (0-3.0s). Rapid exterior wide cut of dome stopping (3.0-5.5s). Slow push-in toward opening golden eye (5.5-8.5s). Hard cut to black graphic title frame (8.5-10.0s).
+
+[STRICT NEGATIVE DIRECTIVES]
+No cartoon, no anime, no full CGI monster, no kiss, no explosions, no extra fingers, no morphing faces, no generated text.
 ```
 
 ---
