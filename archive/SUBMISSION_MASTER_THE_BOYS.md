@@ -1,13 +1,16 @@
-# 🎬 THE UNWRITTEN: WELCOME TO YOUR REAL SCHOOL
-## VIBGYOR AIVerse Creator Studio — Competition Master Blueprint & Submission Bible
+# THE UNWRITTEN: WELCOME TO YOUR REAL SCHOOL
+## VIBGYOR AIVerse Creator Studio — Dual-Cut Submission Master
 
-**Team ID:** #58 | **Team Name:** The Boys  
-**Creators:** Adhyatm Deharia (Lead) & Sri Lakshmi Narasimha Rao (Buddy)  
-**Grade:** Grade 9 | **School:** VIBGYOR High, Doddanekkundi  
-**Theme:** `fantasy-land` | **Category:** 45–60s Vertical Reel (9:16, 1080×1920)  
-**Target Cut:** **55 Seconds** (Safely within 45–60s limit)
+**Team ID:** #58 | **Team:** The Boys
+**Creators:** Adhyatm Deharia (Lead) & Sri Lakshmi Narasimha Rao (Buddy)
+**Grade:** 9 | **School:** VIBGYOR High, Doddanekkundi
+**Theme:** `fantasy-land` | **Shared format:** Vertical 9:16
+
+This document contains two separate, copy-ready submissions: the **58-second competition cut** and the **approximately 10-minute full film**. Each section includes its own portal details, story, production prompts, voice plan, and music prompt.
 
 ---
+
+# SHORT VERSION — 58-SECOND COMPETITION CUT
 
 ## 📋 PART 1: COPY-PASTE READY PORTAL SUBMISSION DETAILS
 
@@ -16,206 +19,114 @@
 THE UNWRITTEN: WELCOME TO YOUR REAL SCHOOL
 ```
 
-### 2. AI Tools & Engines Deployed (Tick These on Portal)
-- [x] **Runway Gen-2 / Gen-3 Alpha** *(Video synthesis & camera motion control)*
-- [x] **Midjourney / Flux** *(Keyframe reference, photorealistic environment & character locking)*
-- [x] **Pika Labs** *(Micro-motion & fluid physics)*
-- [x] **ElevenLabs** *(Bespoke cinematic narration & dialogue synthesis)*
-- [x] **ChatGPT / Claude / Gemini** *(Narrative architecture, world-building lore & prompt engineering)*
-- [x] **OpenAI Sora / Kling AI** *(Complex multi-subject spatial depth)*
-- [x] **Suno AI / Udio** *(Hybrid orchestral-electronic trailer score)*
-- [x] **CapCut AI** *(9:16 vertical re-framing, sound design Foley layering, dynamic caption timing)*
-- [x] **Adobe Firefly** *(Generative fill, texture clean-up, specular lighting alignment)*
+### 2. AI Tools & Engines
+- [x] Runway / Kling / Sora — image-to-video and controlled camera motion
+- [x] Midjourney / Flux — character references and cinematic keyframes
+- [x] Pika — micro-motion and effects
+- [x] ElevenLabs — character dialogue, if synthetic voices are used (no narration)
+- [x] ChatGPT / Claude / Gemini — story development and prompt drafting
+- [x] Suno / Udio — original orchestral-fantasy score
+- [x] CapCut — vertical edit, captions, Foley and sound mix
+- [x] Adobe Firefly — cleanup and compositing
+
+### 3. Concept, Storyline & Workflow
+Two students stay behind after class and notice a pencil stop at the edge of a desk. A patch of shadow beneath it absorbs all light; golden cracks split open, and the floor gives way. They fall together into a vast academy above the clouds, where gravity, galaxies and living art turn lessons into impossible experiences. A hidden black-glass sphere recognizes the shape of their joined hands. Matching golden marks appear on their palms, and a glimpse of an eye hints that the academy is containing something still asleep.
+
+Keep the short cut focused: a tactile classroom opening, a quick fall and academy reveal, three memorable lessons, then the mysterious sphere and joined hands. Use consistent Lucien and Elara references, charcoal uniforms with teal details, gold-only magic, and sound-led storytelling. No voice-over.
+
+## ⏱️ PART 2: 58-SECOND SCRIPT
+
+| Time | Beat |
+|---|---|
+| 0:00–0:06 | After the bell, Lucien and Elara share a quiet moment at their desk. A pencil rolls; carved initials hint at a history beneath the ordinary classroom. |
+| 0:06–0:11 | The pencil stops. A paper slips toward a patch of shadow that reflects nothing. |
+| 0:11–0:16 | Darkness spreads. They retreat together as the classroom light fails. |
+| 0:16–0:21 | A gold fissure bends space. Elara asks, “Tell me you're seeing that.” Lucien answers, “I'm trying not to.” |
+| 0:21–0:26 | Cracks converge. The floor opens; Lucien and Elara fall together through fragments of impossible worlds. |
+| 0:26–0:32 | They land above the clouds. A towering academy and its suspended bridges emerge from the mist. |
+| 0:32–0:38 | The camera rises over the academy. The arch bears the gold inscription: “WELCOME TO YOUR REAL SCHOOL.” |
+| 0:38–0:44 | Three rapid lessons: gravity bends around equations; a galaxy ignites in glass; an ink creature lifts from parchment. |
+| 0:44–0:50 | A silent vault. Gold fissures on a black-glass sphere form the shape of their interlaced fingers. Elara whispers, “...that's us.” |
+| 0:50–0:55 | Matching marks appear on their palms. Their hands stay joined as the sphere pulses. |
+| 0:55–0:58 | Black title card: **THE UNWRITTEN**. A single-frame golden iris flashes behind the title; silence. |
+
+## 🎨 PART 3: PRODUCTION PROMPTS
+
+### 1. Midjourney / Flux Keyframes
+- **Classroom anomaly:** `Vertical cinematic frame, quiet dusk classroom, Lucien and Elara in charcoal uniforms with teal details, pencil stopped at a desk edge, impossible lightless shadow beneath it, tactile wood and natural slate-blue light, restrained realism, no text.`
+- **Academy reveal:** `Two students on a wet black-stone causeway above cloud oceans, immense Gothic academy, floating bridges and distant moving stairs, teal shadows and subtle gold light, monumental vertical composition.`
+- **Lessons:** `A single cinematic academy classroom combining a floating gravity-bound stone, a miniature spiral galaxy in glass, and a living ink drawing, practical material detail, gold magic, clear readable silhouettes.`
+- **Vault and title:** `Black-glass sphere in a quiet basalt vault, bronze rings, fine gold fissures forming two interlaced hands, two students reflected faintly, ominous but not monstrous, high contrast.`
+
+### 2. Image-to-Video Motion
+- **Fall and reveal:** `Follow the two students as the floor gives way; drift past fragments of impossible landscapes, then settle behind them as the cloud academy rises into view. Smooth camera, continuous motion, no glitches.`
+- **Sphere and mark:** `Hold a steady push toward the black-glass sphere. Gold lines slowly resolve into joined fingers; matching marks appear on both palms. End on their hands, not a speaking face.`
+
+## 🎧 PART 4: VOICE & MUSIC PROMPTS
+
+### 1. ElevenLabs Dialogue
+No narrator or voice-over. If using synthetic dialogue, give Lucien and Elara natural, understated teen voices; keep performances intimate and unforced. Use only the short-cut lines in Part 2.
+
+### 2. Suno / Udio Music Prompt
+`Original cinematic fantasy score, intimate and restrained, low cello and classroom room tone opening into warm strings and distant choir at the academy reveal; brief rhythmic lift for three lesson images; strip back to metallic resonance and sub-bass in the vault; one low impact at the title, then silence. No vocals, no narration.`
+
+**Score shape:** 0:00–0:16 room tone and pencil Foley; 0:16–0:38 rising strings; 0:38–0:44 wonder motif; 0:44–0:55 near-silence and low pulse; 0:55–0:58 impact, then silence.
 
 ---
 
-### 3. Concept, Creative Storyline & Prompt Log (Submission Box)
-*(Copy-paste this directly into the portal's narrative explanation field)*
+# LONG VERSION — APPROXIMATELY 10-MINUTE FULL FILM
 
+## 📋 PART 1: COPY-PASTE READY PORTAL SUBMISSION DETAILS
+
+### 1. Project / Film Title
 ```text
-CONCEPT & CREATIVE STORYLINE:
-"The Unwritten: Welcome to Your Real School" subverts the traditional fantasy portal trope by grounding itself in tangible physical realism before elevating into monumental surrealism. The film follows two 9th-grade students—creators Adhyatm and Sri ('The Boys')—who linger in a quiet, dusk-lit classroom after hours. When everyday physics silently fractures beneath an ordinary wooden desk, they uncover a zero-reflection spatial anomaly scored with molten-gold kintsugi fissures. 
-
-Stepping across the threshold, the portal snaps shut, stranding them in a hidden sovereign reality: an impossible Gothic academy suspended above cloud oceans, flanked by airborne leviathans and moving planetary rings. A golden inscription burns in mid-air: "WELCOME TO YOUR REAL SCHOOL." Here, the mundane curriculum of the ordinary world is revealed as a suppressed training ground: Mathematics manipulates gravitational vectors; Science synthesizes living miniature galaxies; History physically manifests portals to forgotten empires; Art breathes autonomous life into ink sketches. 
-
-However, the wonder carries high emotional stakes: "The final examination is surviving a world created by your own imagination." Deep in the restricted subterranean bedrock, the boys uncover an ancient containment sphere sealed by rotating bronze gyroscopes. As the entity inside recognizes their arrival, the vault's seals fracture with the exact golden geometry from their classroom, exposing a colossal, hyper-intelligent golden eye. The academy is not just a school—it is a planetary quarantine, setting up the ultimate test of human will and creation.
-
-PROMPT CRAFTING & WORKFLOW METHODOLOGY:
-To surpass generic AI morphing and achieve cinematic consistency comparable to feature animation benchmarks (The Lion King, Spirited Away, Spider-Verse), our team deployed a multi-stage deterministic generation pipeline:
-1. Character & Seed Anchoring: Generated fixed master portrait sheets for both protagonists using strict seed locking, neutral slate-teal palette uniforms, and distinct physical archetypes (Adhyatm: analytical leader; Sri: intuitive observer).
-2. Physical Realism & Lighting Physics: Prompts prioritized inverse-square lighting falloff, 35mm lens optics, volumetric dusk haze, and tactile macro textures (scratched wood, cold basalt, molten bronze) rather than generic glow filters.
-3. Spatial Dynamics: Utilizing Runway Gen-3 Alpha and Kling image-to-video motion brushes, camera trajectories were constrained to controlled pedestal rises, forward dollies, and 3-layer parallax depth planes (foreground silhouette / portal boundary / infinite chasm).
-4. Acoustic Architecture: ElevenLabs provided intimate, dry cinematic voiceover; Suno AI scored a custom Hans Zimmer-style progression from subtle cello room tones to a monumental brass-and-choir climax; CapCut AI layered physical Foley sound effects (creaking floorboards, crystalline ice fissures, hydraulic gear clanks) for complete sensory immersion.
+THE UNWRITTEN
 ```
 
----
+### 2. AI Tools & Engines
+- [x] Runway / Kling / Sora — image-to-video and controlled camera motion
+- [x] Midjourney / Flux — character references and cinematic keyframes
+- [x] Pika — micro-motion and effects
+- [x] ElevenLabs — character dialogue, if synthetic voices are used (no narration)
+- [x] ChatGPT / Claude / Gemini — story development and prompt drafting
+- [x] Suno / Udio — original orchestral-fantasy score
+- [x] CapCut — edit, sound design and final mix
+- [x] Adobe Firefly — cleanup and compositing
 
-## ⏱️ PART 2: THE 55-SECOND MASTER VERTICAL SCRIPT (9:16)
+### 3. Concept, Storyline & Workflow
+Lucien and Elara discover a golden fissure beneath their classroom and fall into an impossible academy. As they explore its lessons, living drawings and hidden history, an unfinished creature leads them to a black-glass sphere. The sphere shows images of lives they may have shared and marks both their palms, but its visions may be memory, possibility or a trap. When the academy begins to change, they choose to face the danger together. Their arrival has awakened something beneath the school.
 
-```
-========================================================================================
-TIMELINE OVERVIEW (TOTAL RUNTIME: 55 SECONDS)
-----------------------------------------------------------------------------------------
-00:00 - 00:08  | ACT I:   THE ANOMALY (Tactile Reality Breaks)
-00:08 - 00:16  | ACT II:  THE RIFT & THE SKY CHASM (The Void Opens)
-00:16 - 00:26  | ACT III: THE CROSSING — "WELCOME TO YOUR REAL SCHOOL" (Grand Reveal)
-00:26 - 00:42  | ACT IV:  THE IMPOSSIBLE CURRICULUM (4 Rapid 4s Wonder Cuts)
-00:42 - 00:50  | ACT V:   THE FINAL EXAM & THE RESTRICTED EYE (Dark Twist)
-00:50 - 00:55  | ACT VI:  THE TITLE & CLIFFHANGER
-========================================================================================
-```
+Build the film around character choices and mystery rather than spectacle alone. Keep the two leads visually consistent, use charcoal uniforms with teal details, reserve gold for the fissures and marks, and let sound and imagery carry the story. The mystery remains unresolved; no narrator explains it.
 
-### ACT I — THE ANOMALY (00:00 – 00:08)
-* **Visual:**
-  * **00:00–00:04 (Shot 01):** Dusk classroom. Empty desks. In the 9:16 vertical frame, rain-streaked windows reach high into cold slate twilight. Two boys—Adhyatm and Sri—finish packing canvas bags. An ordinary wooden hexagonal pencil rolls off the desk.
-  * **00:04–00:08 (Shot 02):** Extreme macro close-up. The pencil rolls to the bevelled edge... and freezes dead in mid-air. Beneath the desk, a patch of shadow ceases reflecting light entirely—a pit of Vantablack void. Floating dust motes pull downward in straight, magnetized trajectories.
-* **Audio / SFX:** 60Hz fluorescent light hum, distant hallway footsteps receding, wooden pencil roll abruptly cutting out to a deep 30Hz sub-bass pressure drop.
-* **VO (Intimate, whispered voice):**
-  > *"They told you the world was simple..."*
+## ⏱️ PART 2: FULL-FILM STORY — APPROX. 10 MINUTES
 
----
+| Time | Act and story |
+|---|---|
+| 0:00–1:30 | **The World That Notices Them:** An almost-empty classroom establishes Lucien and Elara's quiet familiarity. A pencil stops at the desk edge; shadow stretches the wrong way. A gold crack splits space and the floor disappears. They fall together through fragments of impossible worlds. |
+| 1:30–3:30 | **The Academy Beyond Reality:** They land on a causeway above the clouds and discover a vast living academy. Inside, lessons bend gravity and hold miniature galaxies. Shifting doors, uneasy students and a symbol from the fissure lead them toward a sealed corridor. |
+| 3:30–5:30 | **The Thing Never Finished:** In a forgotten classroom, a half-drawn creature comes alive and watches their joined hands. It leads them through damaged murals that hint at a sealed sphere and two figures from the academy's past. The creature dissolves into ink at the forbidden door. |
+| 5:30–7:30 | **The Chamber That Remembers:** Bronze rings surround a black-glass sphere that reflects nothing. Gold fissures form the shape of Lucien and Elara's interlaced hands. The sphere shows changing silhouettes of them in unfamiliar worlds; matching marks appear on their palms. They cannot tell whether the images are truth, possibility or a trap. |
+| 7:30–9:00 | **The Eternal Mark:** The sphere reveals a vast shape behind its surface. The chamber shakes and the marks pull apart. Lucien offers his hand; Elara chooses to take it. Their marks join, the chamber steadies, and the sphere shows two lights orbiting without separating. |
+| 9:00–10:00 | **The Thing That Woke Up:** They leave the vault as the academy's lights follow the pattern of their marks. The dome and clocks stop; distant windows turn black, and the clouds revolve around a vast emptiness. Something answers from below. Cut to black and the title: **THE UNWRITTEN**. |
 
-### ACT II — THE RIFT (00:08 – 00:16)
-* **Visual:**
-  * **00:08–00:12 (Shot 03):** Low floor-angle. Microscopic molten-gold fissures (kintsugi lightning lines) score across the pitch-black void. The tear doesn't stay flat—it rises vertically up the empty classroom air like a three-dimensional structural fracture.
-  * **00:12–00:16 (Shot 04):** Reverse medium two-shot looking up past the boys' shoulders. Golden rim-light carves their faces. Through the vertical tear, the classroom gives way to infinite cold mountain air, cascading cloud waterfalls, and impossible floating spires.
-* **Audio / SFX:** Razor-sharp crystalline ice-crack sound. Subterranean bronze chime. Wind howling through high mountain passes.
-* **Dialogue:**
-  > **Adhyatm (quiet, focused):** *"Tell me you're seeing that."*  
-  > **Sri (eyes locked):** *"I'm trying not to."*
+## 🎨 PART 3: PRODUCTION PROMPTS
 
----
+### 1. Midjourney / Flux Keyframes
+- **Classroom and fall:** `Cinematic dusk classroom, Lucien and Elara, charcoal coats with teal details; pencil stopped above an impossible lightless shadow, delicate gold fissure splitting space; fragments of upside-down forest and suspended ocean beyond, grounded textures.`
+- **Academy:** `Two students on a black-basalt causeway above clouds, immense Gothic academy with bridges and rearranging staircases, gold light moving through dark stone, teal atmosphere, vertical cinematic scale.`
+- **Unfinished creature:** `Forgotten art classroom, black vellum covered in unfinished creature drawings, one gold-ink winged creature lifting carefully from the page, looking toward two students, organic shadows, restrained magical light.`
+- **Sphere and ending:** `Circular basalt vault, black-glass sphere surrounded by bronze rings, gold fissures forming interlaced fingers, two matching palm marks; distant academy windows going black above a cloud ocean, ominous scale without a visible monster.`
 
-### ACT III — THE CROSSING & THE REVEAL (00:16 – 00:26)
-* **Visual:**
-  * **00:16–00:20 (Shot 05):** Medium tracking shot. The boys step across the jagged golden threshold together. The moment their boots touch the damp basalt stone on the other side, the portal behind them **snaps shut with a blinding golden flash.**
-  * **00:20–00:26 (Shot 06):** Epic vertical crane-tilt reveal. A staggering Gothic Citadel suspended above an ocean of clouds. Colossal bronze astrolabe rings rotate across the sky. Enormous winged leviathans glide between towering spires. Hovering in burning molten-gold runes directly before them:
-    $$\mathbf{WELCOME\ TO\ YOUR\ REAL\ SCHOOL}$$
-* **Audio / SFX:** Heavy stone-on-stone thud of portal locking shut. Massive French horn & cello orchestral surge (Hans Zimmer style). Soaring choir.
-* **VO (Weathered, ancient mentor resonance):**
-  > *"Beyond the reality you accepted... lies the world where the laws are written."*
+### 2. Image-to-Video Motion
+- **Fissure and fall:** `Let shadows stretch toward the desk, then open a fine gold crack through space. The floor vanishes; follow Lucien and Elara falling through floating fragments, keeping their movement and silhouettes continuous.`
+- **Sphere and awakening:** `Bronze rings slow to a stop. Gold lines form interlaced fingers across the sphere and answer the marks on both palms. Transition to the distant academy as its dome stops and windows darken one by one.`
 
----
+## 🎧 PART 4: VOICE & MUSIC PROMPTS
 
-### ACT IV — THE IMPOSSIBLE CURRICULUM (00:26 – 00:42)
-*(4 rapid, high-impact 4-second cuts showcasing the four disciplines)*
+### 1. ElevenLabs Dialogue
+No narrator or voice-over. If dialogue is added in production, use restrained, natural performances for Lucien and Elara and leave room for pauses, breath and environmental sound. Do not invent explanatory narration; the mystery should remain ambiguous.
 
-* **00:26–00:30 (Shot 07) — MATHEMATICS:**
-  * **Visual:** Soaring vaulted chamber. A two-ton fractured dark granite monolith floats weightlessly. A student tilts his hand; glowing spun-gold geometric vector equations rotate in the air, instantly commanding the monolith to pivot into orbital motion.
-  * **VO:** *"Mathematics is the manipulation of gravity."*
+### 2. Suno / Udio Music Prompt
+`Original cinematic fantasy score built from two quiet musical motifs that gradually intertwine. Begin with classroom room tone, pencil and low strings; open into a spacious, wonder-filled academy theme; thin the arrangement through the unfinished creature and vault; build with restrained percussion as the marks join; end with a dark low tone, one soft piano note and silence. No vocals, no narration.`
 
-* **00:30–00:34 (Shot 08) — SCIENCE:**
-  * **Visual:** Dark amphitheater laboratory. Above a slate table, a refractive optical sphere contains a collapsing violet nebula. A blinding white spark ignites at the core, unfurling a living miniature spiral galaxy rotating in the student's palms.
-  * **VO:** *"Science is the birth of galaxies."*
-
-* **00:34–00:38 (Shot 09) — HISTORY:**
-  * **Visual:** A student walks through an arched portal in a stone corridor and steps directly into a living, ancient sunlit Roman/Babylonian empire—dust rising under sandals, towering golden statues, centuries unfolding in real-time.
-  * **VO:** *"History is walking through forgotten empires."*
-
-* **00:38–00:42 (Shot 10) — ART:**
-  * **Visual:** Extreme macro shot of heavy black vellum parchment. A Da Vinci-style anatomical ink sketch of a winged serpent. The metallic gold ink lifts off the paper, scales solidify into 3D obsidian, and the creature draws breath and blinks a living golden eye.
-  * **VO:** *"Art is painting creatures into existence."*
-
----
-
-### ACT V — THE FINAL EXAM & THE RESTRICTED VAULT (00:42 – 00:50)
-* **Visual:**
-  * **00:42–00:46 (Shot 11):** Sudden tone shift. Golden warmth vanished. Deep subterranean chamber flooded with mirror-black water. A 20-foot suspended black-glass sphere is locked within massive rotating bronze gyroscopic rings.
-  * **VO:** *"And the final examination... is surviving a world created by your own imagination."*
-  * **00:46–00:50 (Shot 12):** The heavy bronze rings suddenly **SLAM TO A DEAD HALT** with sparks. The exact molten-gold kintsugi fissure cracks open across the sphere. A colossal, hyper-intelligent golden eye opens inside the crack, staring straight down at Adhyatm and Sri.
-* **Audio / SFX:** Deafening industrial metallic brake CLANG. Music cuts to dead silence. Sub-bass 20Hz vacuum drop.
-* **Dialogue:**
-  > **Adhyatm (hollow whisper):** *"This isn't a school."*  
-  > **Sri:** *"Then what is it?"*
-
----
-
-### ACT VI — THE SMASH CUT & TITLE (00:50 – 00:55)
-* **Visual:**
-  * **00:50–00:52:** Blinding golden shockwave explodes from the sphere toward the lens.
-  * **00:52 (Exact frame):** **SMASH CUT TO BLACK.**
-  * **00:52–00:55 (Shot 13):** In the pitch-black 9:16 frame, a thin golden fissure etches itself into monumental dark-stone serif typography:
-    # THE UNWRITTEN
-    *WELCOME TO YOUR REAL SCHOOL*
-* **Audio / SFX:** Distorted massive brass BRAAAM impact cutting abruptly into silence. In the quiet darkness, the faint, solitary roll of a wooden pencil stopping on a desk.
-
----
-
-## 🎨 PART 3: PRODUCTION PROMPTS FOR GENERATION ENGINES
-
-### 1. Midjourney v6 / Flux Master Image Prompts (9:16 Aspect Ratio)
-
-* **Classroom Anomaly (Shots 01 & 02):**
-  `cinematic 9:16 vertical film still, dusk classroom in secondary school, rain-streaked tall windows in slate blue twilight, worn wooden desks, empty chairs, two teenage male students in crisp charcoal school uniforms packing canvas satchels, on the desk a hexagonal wooden pencil stops unnaturally at the edge of the wood, beneath the desk an impossible patch of vantablack zero-reflection void, subtle dust motes pulling downward in straight lines, realistic 35mm lens, photorealistic texture, anamorphic falloff, no fantasy bloom --ar 9:16 --v 6.1 --style raw`
-
-* **The Golden Spatial Fissure (Shots 03 & 04):**
-  `cinematic 9:16 vertical shot, low angle from floor level beneath a wooden school desk, a pitch black void tearing upward in three dimensions, intricate molten gold kintsugi fissures branching across the dark boundary, liquid gold lightning lines, casting warm amber rim-light on leather school shoes and desk legs, through the tear reveals distant misty mountain peaks and cold sky, photorealistic physical lighting, shot on ARRI Alexa 65 --ar 9:16 --v 6.1 --style raw`
-
-* **The Floating Gothic Academy & Sky Ocean (Shot 06):**
-  `cinematic 9:16 vertical establishing shot, monumental weathered black basalt Gothic academy suspended over an endless ocean of rolling teal clouds, colossal rotating bronze astrolabe rings in the upper sky, slender stone bridges linking floating mountain cliffs, giant feathered sky-leviathans soaring between distant spires, warm lantern light from arched windows, floating glowing molten gold runes in the air spelling "WELCOME TO YOUR REAL SCHOOL", photorealistic architectural scale, Studio Ghibli meets Harry Potter realism --ar 9:16 --v 6.1 --style raw`
-
-* **Mathematics — Gravity Monolith (Shot 07):**
-  `cinematic 9:16 vertical shot, inside a massive vaulted stone lecture hall, a two-ton fractured dark granite boulder suspended weightlessly in mid-air, surrounded by delicate razor-sharp three-dimensional golden geometric vector equations and rotating rings, a teenage student standing on a concentric brass inlaid dais raising one hand in command, realistic physical inertia, warm ambient highlights --ar 9:16 --v 6.1 --style raw`
-
-* **Science — Miniature Galaxy (Shot 08):**
-  `cinematic 9:16 vertical shot, dark amphitheater laboratory, hovering above an ancient dark slate table is a clear optical refractive sphere, inside the sphere is a living glowing purple and golden spiral galaxy with thousands of pinpoint stars and rotating nebula dust, casting volumetric colored reflections across a student's awe-struck face, cinematic photorealism, Christopher Nolan aesthetic --ar 9:16 --v 6.1 --style raw`
-
-* **History — Living Ancient Empire (Shot 09):**
-  `cinematic 9:16 vertical shot, an ancient stone corridor where a colossal arched doorway opens not to a room, but directly into the burning midday sun of an ancient Roman or Mesopotamian marble city, dust rising from stone roads, miniature soldiers and civilians walking below, a modern student standing in silhouette at the portal threshold stepping into the ancient past --ar 9:16 --v 6.1 --style raw`
-
-* **Art — Breathing Ink Creature (Shot 10):**
-  `extreme macro 9:16 vertical shot, heavy black vellum parchment on an inclined drafting table, an intricate Da Vinci style anatomical sketch of a winged serpent in metallic golden ink, the golden ink scales are lifting three-dimensionally off the paper fibers, one feathered wing uncurled casting a real cast shadow on the parchment, a tiny wet golden eye opening and blinking, hyper-tactile macro lens --ar 9:16 --v 6.1 --style raw`
-
-* **The Restricted Vault & Colossal Eye (Shots 11 & 12):**
-  `cinematic 9:16 vertical shot, flooded subterranean stone vault with mirror-black water, suspended in the center is a 20-foot flawless black glass sphere surrounded by massive stationary bronze gyroscopic rings with sparks, a molten gold kintsugi fissure cracked down the glass sphere revealing a colossal hyper-realistic ancient golden reptilian eye staring directly forward, wet iris reflecting two tiny human silhouettes, ominous awe, Denis Villeneuve lighting --ar 9:16 --v 6.1 --style raw`
-
----
-
-### 2. Runway Gen-3 Alpha / Kling AI / Sora Motion Prompts
-
-* **For Shot 02 (Pencil & Void):**
-  `Slow controlled push-in toward the wooden pencil. The pencil stops dead over the drop. Floor shadow deepens into pitch-black void. Dust motes gravitate smoothly downward in parallel lines. Grounded physical speed, zero glitching.`
-
-* **For Shot 04 (Portal Tear):**
-  `Pedestal rise from floor level. The vertical golden fissure crack expands upward like liquid glass tearing open. The background behind the tear deepens into cold teal clouds and mountain spires. Camera holds steady.`
-
-* **For Shot 06 (Academy Reveal):**
-  `Majestic crane shot rising smoothly upward behind the two boys' silhouettes. The massive Gothic towers and turning bronze sky-ring expand to fill the vertical frame. Clouds roll gently beneath the stone bridge.`
-
-* **For Shot 08 (Galaxy Rotation):**
-  `Subtle slow push-in. The purple and gold spiral galaxy rotates smoothly inside the optical sphere. Volumetric light glints across the glass edge and flickers across the boy's eyes.`
-
-* **For Shot 10 (Ink Creature Awakening):**
-  `Macro slider move. The metallic ink on the parchment paper physically swells, scales ripple, the winged head lifts off the flat surface, and the golden eyelid slowly blinks once. Crisp organic movement.`
-
-* **For Shot 12 (The Eye Opens):**
-  `Steady camera push straight toward the vertical crack in the black sphere. The golden eyelid parts smoothly to reveal the colossal golden eye which dilates and focuses down onto the camera. Sudden blinding pulse of light at the final frame.`
-
----
-
-### 3. ElevenLabs Voice Generation Settings
-
-* **Voice Model:** Eleven Multilingual v2
-* **Voice Profile Recommendation:** "Marcus" or "Adam" (Deep, authoritative, weathered British or Mid-Atlantic resonance, similar to John Hurt in Harry Potter or Christopher Nolan trailer narrators).
-* **Voice Settings:** Stability: **55%** | Clarity + Similarity: **80%** | Style Exaggeration: **10%**
-* **Lines to Record:**
-  1. *"They told you the world was simple."*
-  2. *"Beyond the reality you accepted... lies the world where the laws are written."*
-  3. *"Mathematics is the manipulation of gravity."*
-  4. *"Science is the birth of galaxies."*
-  5. *"History is walking through forgotten empires."*
-  6. *"Art is painting creatures into existence."*
-  7. *"And the final examination... is surviving a world created by your own imagination."*
-
----
-
-### 4. Suno AI / Udio Music Prompts
-
-* **Style Prompt:**
-  `Cinematic dark fantasy film trailer score, hybrid orchestral, Hans Zimmer and John Williams style, starts with isolated haunting cello and low sub-bass hum, building into massive soaring brass French horns and epic ethereal choir, climaxing in heavy industrial percussion and an earth-shattering sudden stop`
-* **Structure:**
-  * `[00:00 - 00:15]`: Low cello drones, clock ticks, ambient suspense.
-  * `[00:15 - 00:26]`: Soaring choir + brass entrance as the Academy is revealed.
-  * `[00:26 - 00:42]`: Energetic staccato strings, wonder, intellectual power.
-  * `[00:42 - 00:50]`: Sudden drop into low ominous sub-bass and ticking rings.
-  * `[00:50]`: Massive BRAAAM brass impact, instant cutoff to silence.
+**Score shape:** classroom and fall: sparse strings; academy: widening strings and choir; creature and sphere: reduced, uneasy textures; joined hands: motifs converge; final minute: low pulse, then silence.
