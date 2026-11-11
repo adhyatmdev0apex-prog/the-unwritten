@@ -13,7 +13,7 @@
 ## Portal fields
 1. **Project / Reel Title** (required)
 2. **Video file** (required)
-3. **AI tools used:** Runway, Midjourney, Pika, ElevenLabs, ChatGPT, Claude, Sora, Suno, Udio, CapCut AI, Adobe Firefly, Stable Video. *(Gemini/Veo is not on the list: tick the closest options or mention Gemini/Veo in the prompt log.)*
+3. **AI tools used:** Select the tools actually used from the portal checklist (Runway, Midjourney, ElevenLabs, ChatGPT, Claude, Sora, Suno, Udio, Adobe Firefly). *(Note: Pika and CapCut are strictly not used; our production deploys Gemini Omni 1.1 Flash / Veo alongside professional DaVinci Resolve Studio & FFmpeg encoding pipelines.)*
 4. **Concept, storyline and prompt log** (optional but valuable)
 
 ## What the judges compare against
